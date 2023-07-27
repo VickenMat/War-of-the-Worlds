@@ -1,0 +1,2 @@
+- Russian foreign minister [[Sergei Sazonov]] viewed an Austro-German pact as a conspiracy to end Russian influence in the Balkans
+- On July 30, [[1914]], Russia declared a mobilization of troops in support of [[Serbia]]

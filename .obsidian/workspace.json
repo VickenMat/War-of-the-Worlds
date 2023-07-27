@@ -11,8 +11,12 @@
             "id": "cae2cc38cd09e6f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World War I/People/Franz Ferdinand.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World War I/People/Franz Ferdinand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World War I/People/Franz Ferdinand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World War I/People/Franz Ferdinand.md"
+              }
             }
           }
         ]
@@ -138,8 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4fd9a8c0f5a987",
+  "active": "cae2cc38cd09e6f0",
   "lastOpenFiles": [
-    "testfolder"
+    "World War I/Peace Brokerage/Wilson's Fourteen Points.md",
+    "World War I/Peace Brokerage/Treaty of Versailles.md",
+    "World War I/Peace Brokerage/Treaty of Brest-Litovsk.md",
+    "World War I/Peace Brokerage/Sykes-Picot Agreement.md",
+    "World War I/Peace Brokerage/Paris Peace Conference.md",
+    "World War I/Peace Brokerage",
+    "World War I/Timeline/1919.md",
+    "World War I/Timeline/1918.md",
+    "World War I/Timeline/1917.md",
+    "World War I/Timeline/1916.md",
+    "World War I/Timeline/1915.md",
+    "World War I/Timeline/1914.md",
+    "World War I/Timeline",
+    "World War I/Countries/Allied Powers/United States.md",
+    "World War I/Countries/Allied Powers/Serbia.md",
+    "World War I/Countries/Allied Powers/Russia.md",
+    "World War I/Countries/Allied Powers/Romania.md",
+    "World War I/Countries/Allied Powers/Japan.md",
+    "World War I/Countries/Allied Powers/Italy.md",
+    "World War I/Countries/Allied Powers/Great Britain.md",
+    "World War I/Countries/Allied Powers/France.md",
+    "World War I/Countries/Allied Powers/Canada.md",
+    "World War I/Countries/Allied Powers/Belgium.md",
+    "World War I/Countries/Central Powers/Ottoman Empire.md",
+    "World War I/Countries/Central Powers/Germany.md",
+    "World War I/Countries/Central Powers/Bulgaria.md",
+    "World War I/Countries/Central Powers/Austria-Hungary.md",
+    "World War I/Countries/Allied Powers",
+    "World War I/Countries/Central Powers",
+    "World War I/Countries",
+    "World War I/People/Woodrow Wilson.md",
+    "World War I/People",
+    "World War I/Battles/Western Front",
+    "World War I/Battles/Eastern Front",
+    "World War I/Battles",
+    "World War I/Locations"
   ]
 }

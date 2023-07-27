@@ -1,0 +1,2 @@
+- Declared neutrality after [[Austria-Hungary]] declares war on [[Serbia]] in [[1914]]
+- 

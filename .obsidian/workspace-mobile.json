@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "ed7018cc863e3823",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc1fd28803ed035",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e799c515e6f06c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1cc8e4c5737d4fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3bf872b2a5f7e55a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dc06b9ce062ff32f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "937a84680e2c28fe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "208e8d8d00f13007",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "edd07c78dc9fe37c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "075d322fb1d69c7e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ee071c5c3eef3791",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f7c158fdbf5d6749",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3bf872b2a5f7e55a",
+  "lastOpenFiles": [
+    "World War I/Countries/Central Powers/Germany.md",
+    "World War I/Countries/Central Powers/Ottoman Empire.md",
+    "World War I/Countries/Allied Powers/Russia.md",
+    "World War I/Countries/Central Powers/Austria-Hungary.md",
+    "World War I/Battles/Western Front/Battle of the Somme.md",
+    "World War I/Battles/Western Front/Battle of Verdun.md",
+    "World War I/Battles/Western Front/Third Battle of Ypres.md",
+    "World War I/Countries/Allied Powers/United States.md",
+    "World War I/Battles/Western Front/Battle of the Marne.md",
+    "World War I/Battles/Western Front/Second Battle of Ypres.md",
+    "World War I/Countries/Allied Powers/Serbia.md",
+    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
+    "World War I/Battles/Western Front/Argonne Forest.md",
+    "World War I/Battles/Western Front/First Battle of Ypres.md",
+    "World War I/Battles/Battle of Jutland.md",
+    "World War I/Countries/Central Powers",
+    "World War I/Countries/Allied Powers",
+    "World War I/Peace Brokerage/Wilson's Fourteen Points.md",
+    "World War I/People/General Oskar Potoirek.md",
+    "World War I/People/Kaiser Wilhelm II.md",
+    "World War I/Locations/Sarajevo.md",
+    "World War I/Locations/Bosnia-Herzegovina.md",
+    "World War I/People/Woodrow Wilson.md",
+    "World War I/Timeline/1918.md",
+    "World War I/Timeline/1915.md",
+    "World War I/Timeline/1919.md",
+    "World War I/Timeline/1916.md",
+    "World War I/Timeline/1914.md",
+    "World War I/Timeline",
+    "World War I/Battles/Eastern Front",
+    "World War I/Battles/Western Front",
+    "World War I/Countries",
+    "World War I/Battles",
+    "World War I/Locations",
+    "World War I/Organizations",
+    "World War I/Peace Brokerage"
+  ]
+}
