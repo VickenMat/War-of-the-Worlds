@@ -10,16 +10,27 @@
           {
             "id": "cae2cc38cd09e6f0",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "0b83e5b46de5fa85",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cae2cc38cd09e6f0",
+  "active": "0b83e5b46de5fa85",
   "lastOpenFiles": [
+    "README.md",
+    "World War I/Battles/Western Front/Second Battle of Ypres.md",
     "World War I/People/Franz Ferdinand.md",
     "World War II/People",
     "World War I/Peace Brokerage/Wilson's Fourteen Points.md",
@@ -175,8 +188,6 @@
     "World War I/Countries/Allied Powers/Belgium.md",
     "World War I/Countries/Central Powers/Ottoman Empire.md",
     "World War I/Countries/Central Powers/Germany.md",
-    "World War I/Countries/Central Powers/Bulgaria.md",
-    "World War I/Countries/Central Powers/Austria-Hungary.md",
     "World War I/Countries/Allied Powers",
     "World War I/Countries/Central Powers",
     "World War I/Countries",

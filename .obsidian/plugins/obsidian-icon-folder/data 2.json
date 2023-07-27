@@ -6,7 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiTimeFill"
+      "RiBook2Fill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,5 +18,5 @@
     },
     "iconInTabsEnabled": false
   },
-  "World War I/Timeline": "RiTimeFill"
+  "World War II": "RiBook2Fill"
 }
