@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBookOpenFill",
       "RiFolder3Fill",
       "RiPenNibFill",
       "RiHandCoinFill",
-      "RiTimeFill",
-      "RiGroupFill"
+      "RiTimeFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,15 @@
   "World War II/Timeline": "RiTimeFill",
   "World War II/Treaties": "RiPenNibFill",
   "World War II/Countries/Allied Powers": "RiFolder3Fill",
-  "World War II/Countries/Axis Powers": "RiFolder3Fill"
+  "World War II/Countries/Axis Powers": "RiFolder3Fill",
+  "World War II/Books": "RiBookOpenFill",
+  "World War I/Books": "RiBookOpenFill",
+  "World War I/People/Austria-Hungary": "RiFolder3Fill",
+  "World War I/People/France": "RiFolder3Fill",
+  "World War I/People/Germany": "RiFolder3Fill",
+  "World War I/People/Great Britain": "RiFolder3Fill",
+  "World War I/People/Italy": "RiFolder3Fill",
+  "World War I/People/Russia": "RiFolder3Fill",
+  "World War I/People/Serbia": "RiFolder3Fill",
+  "World War I/People/United States": "RiFolder3Fill"
 }

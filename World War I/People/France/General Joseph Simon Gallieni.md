@@ -1,0 +1,4 @@
+- Appointed military governor in August [[1914]] after [[Germany]] advanced through [[Belgium]] and neared Paris
+- Commanded [[Manoury's 6th Army]] to attack the German flank at the [[Battle of the Marne]] when he was notified that [[General Alexander von Kluck]] and the German 1st Army pursued a retreating French army across the River Marne
+- This maneuver left the German army defenseless from their flank, which Gallieni and the 6th Army attacked
+- The Germans were pushed back from the River Marne to the River Aisne, only to never advance past it

@@ -1,0 +1,13 @@
+- [[Battle of the Marne]]
+	- https://www.britannica.com/event/First-Battle-of-the-Marne
+	- https://www.history.com/this-day-in-history/first-battle-of-the-marne-begins
+- [[Schlieffen Plan]]
+	- https://www.open.edu/openlearn/history-the-arts/history/what-was-the-schlieffen-plan#:~:text=Prior%20to%20World%20War%20I,on%20the%20flanks%20and%20rear.
+- [[1914]]
+	- https://www.loc.gov/collections/stars-and-stripes/articles-and-essays/a-world-at-war/timeline-1914-1921/
+- [[Battle of Tannenberg]]
+	- https://www.britannica.com/event/Battle-of-Tannenberg-World-War-I-1914
+	- https://www.history.com/this-day-in-history/battle-of-tannenberg-begins
+- [[Black Hand]]
+	- https://www.thoughtco.com/the-black-hand-serbian-terrorists-1222113
+- 

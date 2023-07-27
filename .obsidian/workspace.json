@@ -18,15 +18,31 @@
             }
           },
           {
-            "id": "4832dc5ef6d00db9",
+            "id": "78ee39c136a28ca5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Belgium.md",
+                "file": "World War I/Timeline/1914.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "92a8eec0bf71d264",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Works Cited.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Belgium.md",
+                "file": "World War I/Timeline/1914.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Belgium.md",
+                "file": "World War I/Timeline/1914.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Belgium.md"
+                "file": "World War I/Timeline/1914.md"
               }
             }
           }
@@ -157,43 +173,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4fd9a8c0f5a987",
+  "active": "78ee39c136a28ca5",
   "lastOpenFiles": [
-    "World War II/Countries/Axis Powers",
-    "World War II/Countries/Allied Powers",
-    "World War II/Battles/European Theater",
-    "World War II/Battles/Pacific Theater",
-    "World War II/Treaties",
-    "World War II/Timeline",
-    "World War II/Organizations",
-    "World War II/Locations",
-    "World War II/Countries",
-    "World War II/Battles",
-    "World War II/Battle.md",
+    "World War I/Works Cited.md",
+    "World War I/Timeline/1914.md",
+    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
+    "World War I/Battles/Schlieffen Plan.md",
+    "World War I/People/Germany/Alfred von Schlieffen.md",
+    "World War I/Battles/Western Front/Battle of the Marne.md",
+    "World War I/People/France/Manoury's 6th Army.md",
+    "World War I/People/Germany/General Alexander von Kluck.md",
+    "World War I/People/France/General Joseph Simon Gallieni.md",
+    "World War I/People/Austria-Hungary/Duchess of Hohenberg.md",
+    "World War I/Locations/Bosnia-Herzegovina.md",
+    "World War I/Countries/Central Powers/Austria-Hungary.md",
+    "World War I/Countries/Central Powers/Germany.md",
+    "World War I/People/Austria-Hungary/General Oskar Potoirek.md",
+    "World War I/People/France",
+    "World War I/People/Great Britain",
+    "World War I/People/Russia",
+    "World War I/People/United States",
+    "World War I/People/Italy",
+    "World War I/People/Serbia",
+    "World War I/People/Austria-Hungary",
+    "World War I/People/Germany",
     "World War I/Countries/Allied Powers/Belgium.md",
+    "World War I/Books",
+    "World War II/Books",
+    "World War II/Battle.md",
     "World War I/Countries/Allied Powers/Serbia.md",
     "World War I/Countries/Central Powers/Ottoman Empire.md",
-    "World War I/Countries/Central Powers/Germany.md",
-    "World War I/Countries/Central Powers/Austria-Hungary.md",
-    "World War I/People/Francisco Franco.md",
-    "World War I/People/David Lloyd George.md",
-    "World War I/People/Franz Ferdinand.md",
+    "World War I/People/Italy/Francisco Franco.md",
+    "World War I/People/Great Britain/David Lloyd George.md",
+    "World War I/People/Austria-Hungary/Franz Ferdinand.md",
     "World War I/Battles/Western Front/Battle of Verdun.md",
     "README.md",
     "World War I/Battles/Western Front/Second Battle of Ypres.md",
-    "World War II/People",
     "World War I/Treaties/Wilson's Fourteen Points.md",
-    "World War I/Treaties/Treaty of Versailles.md",
-    "World War I/Treaties/Treaty of Brest-Litovsk.md",
-    "World War I/Treaties/Sykes-Picot Agreement.md",
-    "World War I/Treaties/Paris Peace Conference.md",
-    "World War I/Timeline/1919.md",
-    "World War I/Timeline/1918.md",
-    "World War I/Timeline/1917.md",
-    "World War I/Timeline/1916.md",
-    "World War I/Timeline/1915.md",
-    "World War I/Timeline/1914.md",
-    "World War I/Countries/Allied Powers/United States.md",
-    "World War I/Countries/Allied Powers/Russia.md"
+    "World War I/Treaties/Treaty of Versailles.md"
   ]
 }

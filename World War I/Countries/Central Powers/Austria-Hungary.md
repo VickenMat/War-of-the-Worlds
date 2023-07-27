@@ -1,3 +1,5 @@
+![Why Germany Went to War in 1914 | Evolve](https://miro.medium.com/v2/resize:fit:640/1*JJgoGuupFSBgiAYuDuSjpQ.png)
+
 - Does not exist anymore, but broken up into smaller countries
 - Now Bosnia and Herzegovina
 - Viewed [[Serbia]] as a nation of troublemakers who's actions might destabilize it's empire

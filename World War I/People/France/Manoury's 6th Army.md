@@ -1,0 +1,1 @@
+- Headed by [[General Joseph Simon Gallieni]], attacked the German right flank at the [[Battle of the Marne]], pushing them back to the Aisne River
