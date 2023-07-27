@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Western Front/Third Battle of Ypres.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa3baf03cb5e473f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World War I/Battles/Western Front/Third Battle of Ypres.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World War I/Battles/Western Front/Third Battle of Ypres.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "World War I/Battles/Western Front/Third Battle of Ypres.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,8 +136,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bf872b2a5f7e55a",
+  "active": "aa3baf03cb5e473f",
   "lastOpenFiles": [
+    "README.md",
+    "World War I/Battles/Western Front/Third Battle of Ypres.md",
     "World War I/Battles/Western Front/Western Front.md",
     "World War I/Locations/Bosnia-Herzegovina.md",
     "World War I/Organizations/Black Hand.md",
@@ -152,7 +159,6 @@
     "World War I/Countries/Central Powers/Austria-Hungary.md",
     "World War I/Battles/Western Front/Battle of the Somme.md",
     "World War I/Battles/Western Front/Battle of Verdun.md",
-    "World War I/Battles/Western Front/Third Battle of Ypres.md",
     "World War I/Countries/Allied Powers/United States.md",
     "World War I/Battles/Western Front/Battle of the Marne.md",
     "World War I/Battles/Western Front/Second Battle of Ypres.md",
@@ -160,7 +166,6 @@
     "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
     "World War I/Battles/Western Front/Argonne Forest.md",
     "World War I/Battles/Western Front/First Battle of Ypres.md",
-    "World War I/Battles/Battle of Jutland.md",
     "World War I/Countries/Central Powers",
     "World War I/Countries/Allied Powers",
     "World War I/Timeline",

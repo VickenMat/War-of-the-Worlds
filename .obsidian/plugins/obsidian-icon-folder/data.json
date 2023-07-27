@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFolder3Fill",
       "RiFlagFill",
       "RiMarkPenFill",
       "RiFileLine",
-      "RiUserFill",
-      "RiPenNibFill"
+      "RiUserFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,7 @@
   "World War I/Peace Brokerage": "RiMarkPenFill",
   "World War I/People": "RiUserFill",
   "README.md": "RiFileLine",
-  "World War II/People": "RiUserFill"
+  "World War II/People": "RiUserFill",
+  "World War I/Countries/Allied Powers": "RiFolder3Fill",
+  "World War I/Countries/Central Powers": "RiFolder3Fill"
 }

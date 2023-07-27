@@ -1,3 +1,6 @@
+
+![The Kingdom of Serbia in 1914](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kingdom_of_Serbia_%281914%29.svg/250px-Kingdom_of_Serbia_%281914%29.svg.png)
+
 - Bore the greatest responsibility for the outbreak of World War I
 - With the [[Ottoman Empire]] on the decline, Serbian nationalism and expansionism were disruptive forces
 - There was already unrest among the Serbian population because of [[Austria-Hungary]] oppression
