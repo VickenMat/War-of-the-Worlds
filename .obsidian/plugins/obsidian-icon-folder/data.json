@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "RiFolder3Fill",
-      "RiFlagFill",
-      "RiMarkPenFill",
-      "RiFileLine",
-      "RiUserFill"
+      "RiPenNibFill",
+      "RiHandCoinFill",
+      "RiTimeFill",
+      "RiGroupFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,10 +31,20 @@
   "World War I/Countries": "RiFlagFill",
   "World War I/Locations": "RiMapPin2Fill",
   "World War I/Organizations": "RiGroupFill",
-  "World War I/Peace Brokerage": "RiMarkPenFill",
   "World War I/People": "RiUserFill",
   "README.md": "RiFileLine",
   "World War II/People": "RiUserFill",
   "World War I/Countries/Allied Powers": "RiFolder3Fill",
-  "World War I/Countries/Central Powers": "RiFolder3Fill"
+  "World War I/Countries/Central Powers": "RiFolder3Fill",
+  "World War I/Treaties": "RiPenNibFill",
+  "World War II/Battles": "RiKnifeBloodFill",
+  "World War II/Battles/European Theater": "RiFolder3Fill",
+  "World War II/Battles/Pacific Theater": "RiFolder3Fill",
+  "World War II/Countries": "RiFlagFill",
+  "World War II/Locations": "RiMapPin2Fill",
+  "World War II/Organizations": "RiGroupFill",
+  "World War II/Timeline": "RiTimeFill",
+  "World War II/Treaties": "RiPenNibFill",
+  "World War II/Countries/Allied Powers": "RiFolder3Fill",
+  "World War II/Countries/Axis Powers": "RiFolder3Fill"
 }
