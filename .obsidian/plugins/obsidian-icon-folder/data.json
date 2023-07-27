@@ -6,7 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiTimeFill"
+      "RiFlagFill",
+      "RiMarkPenFill",
+      "RiFileLine",
+      "RiUserFill",
+      "RiPenNibFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -18,5 +22,17 @@
     },
     "iconInTabsEnabled": false
   },
-  "World War I/Timeline": "RiTimeFill"
+  "World War I/Timeline": "RiTimeFill",
+  "World War I": "RiBook2Fill",
+  "World War II": "RiBook2Fill",
+  "World War I/Battles": "RiKnifeBloodFill",
+  "World War I/Battles/Eastern Front": "RiFolder3Fill",
+  "World War I/Battles/Western Front": "RiFolder3Fill",
+  "World War I/Countries": "RiFlagFill",
+  "World War I/Locations": "RiMapPin2Fill",
+  "World War I/Organizations": "RiGroupFill",
+  "World War I/Peace Brokerage": "RiMarkPenFill",
+  "World War I/People": "RiUserFill",
+  "README.md": "RiFileLine",
+  "World War II/People": "RiUserFill"
 }
