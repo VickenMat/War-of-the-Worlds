@@ -11,8 +11,12 @@
             "id": "1e799c515e6f06c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Western Front/Third Battle of Ypres.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "World War I/Battles/Western Front/Third Battle of Ypres.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "World War I/Battles/Western Front/Third Battle of Ypres.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "World War I/Battles/Western Front/Third Battle of Ypres.md"
+          }
         }
       }
     ],
@@ -125,6 +133,9 @@
   },
   "active": "3bf872b2a5f7e55a",
   "lastOpenFiles": [
+    "World War I/Battles/Western Front/Western Front.md",
+    "World War I/Locations/Bosnia-Herzegovina.md",
+    "World War I/Organizations/Black Hand.md",
     "World War II/People",
     "World War II/Untitled",
     "World War I/Countries/Central Powers/Bulgaria.md",
@@ -152,14 +163,11 @@
     "World War I/Battles/Battle of Jutland.md",
     "World War I/Countries/Central Powers",
     "World War I/Countries/Allied Powers",
-    "World War I/Peace Brokerage/Wilson's Fourteen Points.md",
-    "World War I/People/General Oskar Potoirek.md",
     "World War I/Timeline",
     "World War I/Battles/Eastern Front",
     "World War I/Battles/Western Front",
     "World War I/Countries",
     "World War I/Battles",
-    "World War I/Locations",
-    "World War I/Organizations"
+    "World War I/Locations"
   ]
 }
