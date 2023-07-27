@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/People/Franz Ferdinand.md",
+                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291
   },
   "right": {
     "id": "c5832d1ab020562d",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/People/Franz Ferdinand.md",
+                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/People/Franz Ferdinand.md",
+                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/People/Franz Ferdinand.md"
+                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4fd9a8c0f5a987",
+  "active": "cae2cc38cd09e6f0",
   "lastOpenFiles": [
+    "World War I/People/Franz Ferdinand.md",
     "World War II/People",
     "World War I/Peace Brokerage/Wilson's Fourteen Points.md",
     "World War I/Peace Brokerage/Treaty of Versailles.md",
@@ -182,7 +183,6 @@
     "World War I/People",
     "World War I/Battles/Western Front",
     "World War I/Battles/Eastern Front",
-    "World War I/Battles",
-    "World War I/Locations"
+    "World War I/Battles"
   ]
 }
