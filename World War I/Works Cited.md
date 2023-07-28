@@ -10,4 +10,16 @@
 	- https://www.history.com/this-day-in-history/battle-of-tannenberg-begins
 - [[Black Hand]]
 	- https://www.thoughtco.com/the-black-hand-serbian-terrorists-1222113
+- [[Second Battle of Ypres]]
+	- https://www.history.com/this-day-in-history/second-battle-of-ypres-begins
+- [[Belgium]]
+	- https://nzhistory.govt.nz/war/kingdom-belgium-facts
+- [[China]]
+	- https://nzhistory.govt.nz/war/republic-china-facts
+- [[France]]
+	- https://nzhistory.govt.nz/war/republic-france-facts
+- [[Italy]]
+	- https://nzhistory.govt.nz/war/kingdom-italy-facts
+- [[Japan]]
+	- https://nzhistory.govt.nz/war/japan-facts
 - 

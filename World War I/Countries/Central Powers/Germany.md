@@ -1,5 +1,8 @@
+
+![Map of the German Empire in 1914](https://nzhistory.govt.nz/files/styles/fullsize/public/German_Empire_1000.jpg?itok=02a5JPH4)
+German Empire [[1914]]
+
 - Backed [[Austria-Hungary]]
 
-![Why Germany Went to War in 1914 | Evolve](https://miro.medium.com/v2/resize:fit:640/1*JJgoGuupFSBgiAYuDuSjpQ.png)
 
 

@@ -23,8 +23,12 @@
             "id": "aa3baf03cb5e473f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +126,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "World War I/Battles/Western Front/Second Battle of Ypres.md"
+          }
         }
       }
     ],
@@ -136,8 +144,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa3baf03cb5e473f",
+  "active": "3bf872b2a5f7e55a",
   "lastOpenFiles": [
+    "World War I/Battles/Western Front/First Battle of Ypres.md",
+    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
+    "World War I/People/Italy/Vittorio Orlando.md",
+    "World War I/Countries/Allied Powers/British Empire/Great Britain.md",
+    "World War I/Countries/Allied Powers/British Empire/Canada.md",
+    "World War I/Countries/Allied Powers/British Empire",
+    "World War I/Battles/Schlieffen Plan.md",
+    "World War I/People/France/Manoury's 6th Army.md",
+    "World War I/People/Germany/Alfred von Schlieffen.md",
+    "World War I/People/Germany/General Alexander von Kluck.md",
+    "World War I/Works Cited.md",
     "World War I/People/France/General Joseph Simon Gallieni.md",
     "General Alexander von Kluck.md",
     "Manoury's 6th Army.md",
@@ -151,7 +170,6 @@
     "World War II/Treaties",
     "World War II/Countries/Axis Powers",
     "World War II/Countries/Allied Powers",
-    "World War II/Countries",
     "World War I/Treaties/Treaty of Versailles.md",
     "World War I/Treaties/Sykes-Picot Agreement.md",
     "World War I/Treaties/Paris Peace Conference.md",
@@ -163,16 +181,6 @@
     "World War I/Organizations/Black Hand.md",
     "World War I/Countries/Central Powers/Bulgaria.md",
     "World War I/Countries/Allied Powers/Japan.md",
-    "World War I/Countries/Allied Powers/Romania.md",
-    "World War I/Countries/Allied Powers/Great Britain.md",
-    "World War I/Countries/Allied Powers/Italy.md",
-    "World War I/Countries/Allied Powers/Canada.md",
-    "World War I/Countries/Allied Powers/France.md",
-    "World War I/Countries/Allied Powers/Belgium.md",
-    "World War I/Countries/Central Powers/Germany.md",
-    "World War I/Countries/Central Powers/Ottoman Empire.md",
-    "World War I/Countries/Allied Powers/Russia.md",
-    "World War I/Countries/Central Powers/Austria-Hungary.md",
-    "World War I/Battles/Western Front/Battle of the Somme.md"
+    "World War I/Countries/Allied Powers/Romania.md"
   ]
 }

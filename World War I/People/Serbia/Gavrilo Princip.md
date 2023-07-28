@@ -8,3 +8,6 @@
 	- [[Franz Ferdinand]] believed the Serbians to be "pigs," "thieves," murderers," and "scoundrels"
 - Sentenced to 20 years of prison, which was the maximum for people under 20
 - Princip never served his entire as he contracted tuberculosis and died in [[1918]]
+
+![Gavrilo Princip assassinates Franz Ferdinand, 1914](https://nzhistory.govt.nz/files/june-28-1914-franz-ferdinand.jpg)
+Assassination of Franz Ferdinand 1914

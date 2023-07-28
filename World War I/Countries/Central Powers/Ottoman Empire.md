@@ -1,6 +1,5 @@
 
-![map of Ottoman empire](https://www.nationalarchives.gov.uk/pathways/firstworldwar/maps/map_images/ottoman_empire.gif)
+![Map of Ottoman Empire in 1914](https://nzhistory.govt.nz/files/styles/fullsize/public/Ottoman_Empire_1000.jpg?itok=vnBSI0cv)
+Ottoman Empire [[1914]]
 
-![Map of Mesopotamia and Turkey](https://www.nationalarchives.gov.uk/pathways/firstworldwar/maps/map_images/turkey_mesopotamia.gif)
-Turkey/Middle East, modern borders shown
 - t
