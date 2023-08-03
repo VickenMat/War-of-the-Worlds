@@ -3,4 +3,4 @@
 
 - Bosnia's governor in [[1914]]
 - Invited [[Franz Ferdinand]] to inspect the army maneuvers being held outside [[Sarajevo]]
-- 
+- [[Gavrilo Princip]] aimed at him but shot [[Duchess of Hohenberg]] instead

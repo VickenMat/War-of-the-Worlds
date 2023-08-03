@@ -10,6 +10,8 @@
 	- https://www.history.com/this-day-in-history/battle-of-tannenberg-begins
 - [[Black Hand]]
 	- https://www.thoughtco.com/the-black-hand-serbian-terrorists-1222113
+	- https://www.britannica.com/biography/Dragutin-Dimitrijevic
+	- https://www.washingtonpost.com/outlook/2018/11/12/what-everyone-gets-wrong-about-start-world-war-i/
 - [[Second Battle of Ypres]]
 	- https://www.history.com/this-day-in-history/second-battle-of-ypres-begins
 - [[Belgium]]
@@ -22,4 +24,19 @@
 	- https://nzhistory.govt.nz/war/kingdom-italy-facts
 - [[Japan]]
 	- https://nzhistory.govt.nz/war/japan-facts
+- [[Montenegro]]
+	- https://nzhistory.govt.nz/war/kingdom-montenegro-facts
+- [[Portugal]]
+	- https://nzhistory.govt.nz/war/republic-portugal-facts
+- [[Romania]]
+	- https://nzhistory.govt.nz/war/kingdom-of-romaina-facts
+- [[Russia]]
+	- https://nzhistory.govt.nz/war/russian-empire-facts
+- [[Serbia]]
+	- https://nzhistory.govt.nz/war/kingdom-of-serbia-facts
+	- https://www.washingtonpost.com/outlook/2018/11/12/what-everyone-gets-wrong-about-start-world-war-i/
+- [[Gavrilo Princip]]
+	- https://www.washingtonpost.com/outlook/2018/11/12/what-everyone-gets-wrong-about-start-world-war-i/
+- [[United States]]
+	- https://nzhistory.govt.nz/war/united-states-america-facts
 - 

@@ -46,19 +46,18 @@
             }
           },
           {
-            "id": "954aa0e56b485e45",
+            "id": "ab938511f9a66d80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Japan.md",
+                "file": "World War I/Countries/Allied Powers/United States.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Japan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Japan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World War I/Countries/Allied Powers/Japan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,35 +180,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "954aa0e56b485e45",
+  "active": "cae2cc38cd09e6f0",
   "lastOpenFiles": [
-    "World War I/Countries/Allied Powers/France.md",
-    "World War I/Countries/Allied Powers/Japan.md",
-    "World War I/Works Cited.md",
-    "World War I/Countries/Allied Powers/Italy.md",
-    "World War I/Countries/Allied Powers/Belgium.md",
-    "World War I/Countries/Allied Powers/China.md",
-    "World War I/Timeline/1915.md",
-    "World War I/Organizations/Black Hand.md",
-    "World War I/People/Austria-Hungary/Franz Ferdinand.md",
-    "World War I/People/Serbia/Gavrilo Princip.md",
-    "World War I/Locations/Sarajevo.md",
-    "World War I/Locations/Bosnia-Herzegovina.md",
-    "World War I/Countries/Central Powers/Bulgaria.md",
-    "World War I/Countries/Central Powers/Germany.md",
-    "World War I/Countries/Central Powers/Ottoman Empire.md",
-    "World War I/Countries/Allied Powers/British Empire/India.md",
-    "World War I/Countries/Allied Powers/British Empire/Canada.md",
-    "World War I/Countries/Allied Powers/British Empire/Great Britain.md",
-    "World War I/Countries/Allied Powers/British Empire/New Zealand.md",
-    "World War I/Countries/Allied Powers/British Empire/Australia.md",
-    "World War I/Countries/Allied Powers/British Empire/Newfoundland.md",
-    "World War I/Countries/Allied Powers/British Empire/South Africa.md",
-    "World War I/Countries/Allied Powers/British Empire",
-    "World War I/Countries/Central Powers/Austria-Hungary.md",
     "World War I/Countries/Allied Powers/United States.md",
-    "World War I/Countries/Allied Powers/Serbia.md",
     "World War I/Countries/Allied Powers/Russia.md",
+    "World War I/Countries/Allied Powers/Montenegro.md",
+    "World War I/Countries/Allied Powers/Italy.md",
+    "World War I/Countries/Allied Powers/China.md",
+    "World War I/Countries/Allied Powers/Belgium.md",
+    "World War I/Countries/Allied Powers/British Empire/India.md",
+    "World War I/Works Cited.md",
+    "World War I/Countries/Allied Powers/Serbia.md",
+    "World War I/Organizations/Black Hand.md",
+    "World War I/People/Serbia/Gavrilo Princip.md",
+    "World War I/People/Austria-Hungary/General Oskar Potoirek.md",
+    "World War I/People/Serbia/Dragutin Dimitrijevic.md",
+    "World War I/Locations/Bosnia-Herzegovina.md",
+    "World War I/Locations/Yugoslavia.md",
+    "World War I/Treaties/Treaty of Trianon.md",
+    "World War I/Countries/Allied Powers/Romania.md",
+    "World War I/Countries/Allied Powers/France.md",
+    "World War I/Treaties/Treaty of Bucharest.md",
+    "World War I/Locations/Transylvania.md",
+    "World War I/Countries/Allied Powers/Portugal.md",
+    "World War I/Countries/Allied Powers/Japan.md",
+    "World War I/Timeline/1914.md",
+    "World War I/assets",
+    "World War I/Timeline/1915.md",
+    "World War I/People/Austria-Hungary/Franz Ferdinand.md",
+    "World War I/Locations/Sarajevo.md",
+    "World War I/Countries/Allied Powers/British Empire",
     "World War I/People/France",
     "World War I/People/Great Britain",
     "World War I/People/Russia",
@@ -221,7 +217,6 @@
     "World War I/People/Italy",
     "World War I/People/Serbia",
     "World War I/People/Austria-Hungary",
-    "World War I/People/Germany",
-    "World War I/Books"
+    "World War I/People/Germany"
   ]
 }

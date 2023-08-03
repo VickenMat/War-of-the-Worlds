@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+                "file": "World War I/Countries/Allied Powers/Montenegro.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+            "file": "World War I/Countries/Allied Powers/Montenegro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World War I/Battles/Western Front/Second Battle of Ypres.md",
+            "file": "World War I/Countries/Allied Powers/Montenegro.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World War I/Battles/Western Front/Second Battle of Ypres.md"
+            "file": "World War I/Countries/Allied Powers/Montenegro.md"
           }
         }
       }
@@ -144,8 +144,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bf872b2a5f7e55a",
+  "active": "aa3baf03cb5e473f",
   "lastOpenFiles": [
+    "World War I/Works Cited.md",
+    "World War I/Treaties/Treaty of Bucharest.md",
+    "World War I/Locations/Transylvania.md",
+    "World War I/Battles/Western Front/Second Battle of Ypres.md",
+    "README.md",
     "World War I/Battles/Western Front/First Battle of Ypres.md",
     "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
     "World War I/People/Italy/Vittorio Orlando.md",
@@ -156,11 +161,9 @@
     "World War I/People/France/Manoury's 6th Army.md",
     "World War I/People/Germany/Alfred von Schlieffen.md",
     "World War I/People/Germany/General Alexander von Kluck.md",
-    "World War I/Works Cited.md",
     "World War I/People/France/General Joseph Simon Gallieni.md",
     "General Alexander von Kluck.md",
     "Manoury's 6th Army.md",
-    "README.md",
     "World War II/Battles/Pacific Theater",
     "World War II/Battles/European Theater",
     "World War II/Battles",
@@ -178,9 +181,6 @@
     "World War I/Battles/Western Front/Third Battle of Ypres.md",
     "World War I/Battles/Western Front/Western Front.md",
     "World War I/Locations/Bosnia-Herzegovina.md",
-    "World War I/Organizations/Black Hand.md",
-    "World War I/Countries/Central Powers/Bulgaria.md",
-    "World War I/Countries/Allied Powers/Japan.md",
-    "World War I/Countries/Allied Powers/Romania.md"
+    "World War I/Organizations/Black Hand.md"
   ]
 }
