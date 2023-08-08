@@ -39,4 +39,16 @@
 	- https://www.washingtonpost.com/outlook/2018/11/12/what-everyone-gets-wrong-about-start-world-war-i/
 - [[United States]]
 	- https://nzhistory.govt.nz/war/united-states-america-facts
+- [[Great Britain]]
+	- https://nzhistory.govt.nz/war/british-empire-facts-and-stats
+- [[New Zealand]]
+	- https://nzhistory.govt.nz/war/new-zealand-facts
+- [[Australia]]
+	- https://nzhistory.govt.nz/war/australia-facts
+- [[Canada]]
+	- https://nzhistory.govt.nz/war/canada-facts
+- [[India]]
+	- https://nzhistory.govt.nz/war/british-india-facts
+- [[Newfoundland]]
+	- https://nzhistory.govt.nz/war/newfoundland-facts
 - 

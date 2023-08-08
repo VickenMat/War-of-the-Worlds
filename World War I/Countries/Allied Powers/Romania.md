@@ -2,7 +2,7 @@
 ![Map of the Kingdom of Romania in 1916](https://nzhistory.govt.nz/files/styles/fullsize/public/romania-map-1000.jpg?itok=5eqULY9r)
 Kingdom of Romania [[1916]]
 
-Head of State was [[King Ferdinand I]]
+- Head of State was [[King Ferdinand I]]
 - Entered the war on August 27, 1916 when Romania declared war on [[Austria-Hungary]]
 	- Romania's entrance into the war was motivated by their desire to claim the region of [[Transylvania]] (whose ethnic population was a majority of Romanians but under the Austria-Hungary rule)
 	- Immediately after declaring war, Romania launched an offensive into Transylvania which had early success but was soon crushed by all four of the Central Powers

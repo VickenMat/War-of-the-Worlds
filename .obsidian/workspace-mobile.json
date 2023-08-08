@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Countries/Allied Powers/Montenegro.md",
+                "file": "World War I/Works Cited.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9723cecf4f86642",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +106,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World War I/Countries/Allied Powers/Montenegro.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +122,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World War I/Countries/Allied Powers/Montenegro.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,9 +132,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "World War I/Countries/Allied Powers/Montenegro.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -144,9 +148,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa3baf03cb5e473f",
+  "active": "f9723cecf4f86642",
   "lastOpenFiles": [
+    "World War I/Battles/Gallipoli Campaign/Battle of Lone Pine.md",
+    "World War I/Battles/Western Front/Battle of Messines.md",
+    "World War I/Battles/Gallipoli Campaign/Battle of Chunuk Bair.md",
+    "World War I/Battles/Western Front/Battle of Aubers Ridge.md",
+    "World War I/Battles/Western Front/Battle of Loos.md",
+    "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
+    "World War I/Battles/Western Front/Vimy Ridge.md",
+    "World War I/Battles/Western Front/Battle of Fromelles.md",
+    "World War I/Treaties/Treaty of Sevres.md",
     "World War I/Works Cited.md",
+    "World War I/Treaties/Wilson's Fourteen Points.md",
+    "World War I/Countries/Allied Powers/United States.md",
+    "World War I/Treaties/Treaty of Trianon.md",
+    "World War I/Locations/Yugoslavia.md",
+    "World War I/Countries/Allied Powers/Montenegro.md",
     "World War I/Treaties/Treaty of Bucharest.md",
     "World War I/Locations/Transylvania.md",
     "World War I/Battles/Western Front/Second Battle of Ypres.md",
@@ -159,11 +177,6 @@
     "World War I/Countries/Allied Powers/British Empire",
     "World War I/Battles/Schlieffen Plan.md",
     "World War I/People/France/Manoury's 6th Army.md",
-    "World War I/People/Germany/Alfred von Schlieffen.md",
-    "World War I/People/Germany/General Alexander von Kluck.md",
-    "World War I/People/France/General Joseph Simon Gallieni.md",
-    "General Alexander von Kluck.md",
-    "Manoury's 6th Army.md",
     "World War II/Battles/Pacific Theater",
     "World War II/Battles/European Theater",
     "World War II/Battles",
@@ -172,15 +185,6 @@
     "World War II/Locations",
     "World War II/Treaties",
     "World War II/Countries/Axis Powers",
-    "World War II/Countries/Allied Powers",
-    "World War I/Treaties/Treaty of Versailles.md",
-    "World War I/Treaties/Sykes-Picot Agreement.md",
-    "World War I/Treaties/Paris Peace Conference.md",
-    "World War I/Treaties/Wilson's Fourteen Points.md",
-    "World War I/Treaties/Treaty of Brest-Litovsk.md",
-    "World War I/Battles/Western Front/Third Battle of Ypres.md",
-    "World War I/Battles/Western Front/Western Front.md",
-    "World War I/Locations/Bosnia-Herzegovina.md",
-    "World War I/Organizations/Black Hand.md"
+    "World War II/Countries/Allied Powers"
   ]
 }
