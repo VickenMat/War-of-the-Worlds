@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFolderFill",
       "RiBookOpenFill",
       "RiFolder3Fill",
       "RiPenNibFill",
-      "RiHandCoinFill",
-      "RiTimeFill"
+      "RiHandCoinFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,8 @@
   "World War I/People/Russia": "RiFolder3Fill",
   "World War I/People/Serbia": "RiFolder3Fill",
   "World War I/People/United States": "RiFolder3Fill",
-  "World War I/Battles/Gallipoli Campaign": "RiFolder3Fill"
+  "World War I/Battles/Gallipoli Campaign": "RiFolder3Fill",
+  "World War II/Battles/European Theater/Operations": "RiFolderFill",
+  "World War II/Battles/Pacific Theater/Operations": "RiFolderFill",
+  "World War I/People/Ottoman Empire": "RiFolder3Fill"
 }

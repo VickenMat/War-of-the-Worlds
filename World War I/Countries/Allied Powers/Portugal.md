@@ -10,4 +10,4 @@ Republic of Portugal [[1916]]
 	- Portuguese owned Angola and current day Mozambique would see fighting against the Germans, the later which would be taken over and subsequently freed
 	- 140,000 soldiers mobilized during the war, with 75,000 deployed in 1916
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 7,214 military casualties with 13,751 wounded
+	- 7,214 military deaths with 13,751 wounded

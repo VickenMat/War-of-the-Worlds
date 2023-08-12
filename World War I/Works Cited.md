@@ -51,4 +51,16 @@
 	- https://nzhistory.govt.nz/war/british-india-facts
 - [[Newfoundland]]
 	- https://nzhistory.govt.nz/war/newfoundland-facts
+- [[South Africa]]
+	- https://nzhistory.govt.nz/war/south-africa-facts-and-stats
+- [[Great Britain]]
+	- https://nzhistory.govt.nz/war/united-kingdom-facts
+- [[Germany]]
+	- https://nzhistory.govt.nz/war/germany-facts
+- [[Austria-Hungary]]
+	- https://nzhistory.govt.nz/war/austria-hungary-facts
+- [[Bulgaria]]
+	- https://nzhistory.govt.nz/war/bulgaria-facts
+- [[Ottoman Empire]]
+	- https://nzhistory.govt.nz/war/ottoman-empire-facts
 - 

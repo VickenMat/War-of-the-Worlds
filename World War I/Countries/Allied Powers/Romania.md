@@ -12,4 +12,4 @@ Kingdom of Romania [[1916]]
 	- The Bolshevik Regime and Romanians had confrontations about land in Hungary in [[1919]]
 	- 900,000 soldiers mobilized during the war, with 836,000 deployed in 1916
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 335,706 military and 265,000 civilian casualties with 120,000 military wounded
+	- 335,706 military and 265,000 civilian deaths with 120,000 military wounded

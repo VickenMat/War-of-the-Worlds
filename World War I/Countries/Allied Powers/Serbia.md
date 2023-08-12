@@ -10,7 +10,7 @@ Kingdom of Serbia [[1914]]
 	- 710,000 soldiers mobilized during the war, with 530,000 deployed in 1914
 - Ceased hostilities on November 11, 1918 after armistice with [[Germany]]
 	- [[Treaty of Trianon]] signed by the Kingdom of the Serbs, Croats and Slovenes
-	- 450,000 military and 650,000 civilian casualties
+	- 450,000 military and 650,000 civilian deaths
 	- Landlocked and isolated from the Allies, Serbian civilians faced famine and disease through destroyed farmland and infrastructure
 - On December 1 1918, the Kingdom of Serbia was superseded by the new Kingdom of the Serbs, Croats and Slovenians, which incorporated Serbia, Montenegro, and the 'South Slav' regions of the former Austro-Hungarian Empire. This is now known as [[Yugoslavia]], or South Slavia
 - Serbia bore the greatest responsibility for the outbreak of World War I

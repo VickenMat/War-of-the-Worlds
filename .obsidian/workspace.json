@@ -30,49 +30,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "a76f40e2032b0f4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Countries/Allied Powers/France.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "50e97fbcc47ac182",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Countries/Allied Powers/British Empire/New Zealand.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "1c8c7d957ed22571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Countries/Allied Powers/British Empire/Newfoundland.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211
   },
   "right": {
     "id": "c5832d1ab020562d",
@@ -138,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Countries/Allied Powers/British Empire/Newfoundland.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Countries/Allied Powers/British Empire/Newfoundland.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World War I/Countries/Allied Powers/British Empire/Newfoundland.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,43 +154,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c8c7d957ed22571",
+  "active": "cae2cc38cd09e6f0",
   "lastOpenFiles": [
-    "World War I/Countries/Allied Powers/France.md",
-    "World War I/Countries/Allied Powers/British Empire/New Zealand.md",
-    "World War I/Countries/Allied Powers/British Empire/India.md",
-    "World War I/Countries/Allied Powers/British Empire/Newfoundland.md",
-    "World War I/Works Cited.md",
-    "World War I/Countries/Allied Powers/China.md",
-    "World War I/Countries/Allied Powers/Belgium.md",
-    "World War I/Battles/Western Front/Battle of Loos.md",
-    "World War I/Battles/Western Front/Battle of Aubers Ridge.md",
-    "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
-    "World War I/Countries/Allied Powers/British Empire/Great Britain.md",
-    "World War I/Countries/Allied Powers/British Empire/Canada.md",
+    "World War I/People/Australia/William Hughes.md",
+    "World War I/People/Australia",
     "World War I/Countries/Allied Powers/British Empire/Australia.md",
-    "World War I/Battles/Western Front/Vimy Ridge.md",
-    "World War I/Countries/Allied Powers/Serbia.md",
+    "World War I/Battles/Armies/Canadian Expeditionary Force.md",
+    "World War I/People/Canada",
+    "World War I/Countries/Allied Powers/British Empire/Canada.md",
+    "World War I/People/Canada/Robert Borden.md",
+    "World War I/Countries/Allied Powers/British Empire/Great Britain.md",
+    "World War I/Works Cited.md",
+    "World War I/People/India",
+    "World War I/Countries/Allied Powers/British Empire/India.md",
+    "World War I/Battles/Armies/British Expeditionary Force.md",
+    "World War I/Battles/Armies/Indian Army.md",
+    "World War I/People/India/Lord Chelmsford.md",
+    "World War I/Battles/Armies/Indian Expeditionary Force.md",
     "World War I/Countries/Allied Powers/United States.md",
+    "World War I/Countries/Allied Powers/Serbia.md",
     "World War I/Countries/Allied Powers/Russia.md",
     "World War I/Countries/Allied Powers/Romania.md",
     "World War I/Countries/Allied Powers/Portugal.md",
     "World War I/Countries/Allied Powers/Montenegro.md",
     "World War I/Countries/Allied Powers/Japan.md",
     "World War I/Countries/Allied Powers/Italy.md",
-    "World War I/Treaties/Treaty of Sevres.md",
-    "World War I/Battles/Western Front/Battle of Fromelles.md",
-    "World War I/Battles/Gallipoli Campaign/Battle of Lone Pine.md",
-    "World War I/Battles/Gallipoli Campaign",
-    "World War I/Battles/Western Front/Battle of Messines.md",
-    "World War I/assets",
-    "World War I/Countries/Allied Powers/British Empire",
-    "World War I/People/France",
-    "World War I/People/Great Britain",
-    "World War I/People/Russia",
-    "World War I/People/United States",
-    "World War I/People/Italy",
-    "World War I/People/Serbia",
-    "World War I/People/Austria-Hungary"
+    "World War I/Countries/Allied Powers/France.md",
+    "World War I/Countries/Allied Powers/China.md",
+    "World War I/Battles/Armies/Belgian Army.md",
+    "World War I/Countries/Allied Powers/Belgium.md",
+    "World War I/Battles/Armies/Egyptian Expeditionary Force.md",
+    "World War I/Battles/Armies",
+    "World War I/People/New Zealand",
+    "World War I/People/Newfoundland",
+    "World War I/People/South Africa",
+    "World War I/People/Belgium",
+    "World War I/People/China",
+    "World War I/People/Japan"
   ]
 }

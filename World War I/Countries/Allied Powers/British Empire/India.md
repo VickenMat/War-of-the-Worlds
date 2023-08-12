@@ -17,5 +17,5 @@ British India [[1914]]
 	- In East Africa, [[South Africa]] troops joined the Indian Expeditionary Force 'C', who took up defensive positions along the Ugandan border with German Tanzania and Force 'B', who attacked the German port of Tanga
 	- 1,440,437 soldiers mobilized during the war, with 1,096,013 serving overseas
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 53,486 casualties with 64,350 wounded
+	- 53,486 dead with 64,350 wounded
 	-  Signed the [[Treaty of Sevres]] with the [[Ottoman Empire]] on August 10 1920

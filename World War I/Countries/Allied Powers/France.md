@@ -7,4 +7,4 @@ Republic of France [[1914]]
 - Entered the war on August 3, 1914 when [[Germany]] declared war on France
 	- 8.7 million soldiers mobilized during the war, with 3.6 million deployed in 1914
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 1,385,000 military casualties with 3.2 million wounded
+	- 1,385,000 military deaths with 3.2 million wounded

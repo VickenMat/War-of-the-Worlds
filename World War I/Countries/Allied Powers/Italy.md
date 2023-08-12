@@ -7,4 +7,4 @@ Kingdom of Italy [[1915]]
 - Entered the war on May 23, 1915 when Italy declared was on [[Austria-Hungary]]
 	- 5.6 million soldiers mobilized during the war, with 1.5 million deployed in 1915
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 462,000 military casualties with 953,000 wounded
+	- 462,000 military deaths with 953,000 wounded

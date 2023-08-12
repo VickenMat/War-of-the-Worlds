@@ -7,5 +7,5 @@ Empire of Japan [[1914]]
 - Entered the war on August 23, 1914 when Japan declared war on [[Germany]]
 	- 800,000 soldiers mobilized during the war, with 380,000 deployed in 1914
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 2,000 military casualties with 5,100 wounded
+	- 2,000 military deaths with 5,100 wounded
 

@@ -10,6 +10,4 @@ United States of America [[1917]]
 		- The Americans did not see any serious fighting until the last six months of the war in battles such as [[Belleau Wood]], [[St. Mihiel]], and the Meuse-[[Argonne Forest]] offensive
 	- 4.7 million soldiers mobilized during the war, with 2.1 million sent overseas
 - Ceased hostilities on November 11, 1918 after armistice with Germany
-	- 115,660 military casualties with 205,690 wounded
-
-- Declared neutrality after [[Austria-Hungary]] declares war on [[Serbia]] in [[1914]]
+	- 115,660 military deaths with 205,690 wounded

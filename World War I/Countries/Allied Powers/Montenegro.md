@@ -10,4 +10,4 @@ Kingdom of Montenegro [[1914]]
 	- In [[1916]], Montenegro, outnumbered, outgunned, and isolated, succumbed to the Austro-Hungarian Army (which ruled over them until 1918)
 	- 60,000 soldiers mobilized during the war, with 35,000 deployed in 1914
 - Ceased hostilities on January 25, [[1916]] after the Montenegrin Army surrendered to [[Austria-Hungary]]
-	- 5,000 military casualties
+	- 5,000 military deaths

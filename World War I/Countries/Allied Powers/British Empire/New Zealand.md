@@ -13,5 +13,5 @@ Dominion of New Zealand [[1914]]
 	- On the [[Western Front]], the NZEF fought at the [[Battle of the Somme]], [[Battle of Messines]], and [[Third Battle of Ypres]]
 	- 117,175 soldiers mobilized during the war, with 99,000 serving overseas
 - Ceased hostilities on November 11, [[1918]] after armistice with Germany
-	- 18,000 casualties with 41,317 wounded
+	- 18,000 dead with 41,317 wounded
 	- Signed the [[Treaty of Sevres]] with the [[Ottoman Empire]] on August 10 1920

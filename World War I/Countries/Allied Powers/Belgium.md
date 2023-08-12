@@ -3,9 +3,9 @@
 Kingdom of Belgium [[1914]]
 
 - Head of State was [[King Albert I]]
-- Entered the war on August 4, 1914 when they were invaded by [[Germany]]
+- Entered the war on August 4, 1914 when the Kingdom of Belgium was invaded by [[Germany]]
 	- [[Belgian Army]] was created
 	- 300,000 soldiers mobilized during the war
 	- By October 1914, nearly the whole of Belgium was under German occupation
 - Ceased hostilities on November 11, [[1918]] after armistice with Germany
-	- 44,000 military and 9,000 civilian casualties
+	- 44,000 military deaths and 9,000 civilian deaths
