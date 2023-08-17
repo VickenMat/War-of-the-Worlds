@@ -63,4 +63,14 @@
 	- https://nzhistory.govt.nz/war/bulgaria-facts
 - [[Ottoman Empire]]
 	- https://nzhistory.govt.nz/war/ottoman-empire-facts
-- 
+- [[Second Battle of Ypres]]
+	- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.opcw.org/sites/default/files/documents/2019/05/Full%20version%202019_Medical%20Guide_WEB.pdf#:~:text=More%20than%201.3%20million%20people%20(primarily%20combatants)%20were%20injured%20by,their%20exposure%20to%20CW%20agents.
+	- https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html
+- [[Chemical Warfare]]
+	- https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html
+- [[Gallipoli Campaign]]
+	- https://www.iwm.org.uk/history/what-you-need-to-know-about-the-gallipoli-campaign
+- [[Battle of Chunuk Bair]]
+	- https://www.iwm.org.uk/history/what-you-need-to-know-about-the-gallipoli-campaign
+	- https://en.wikipedia.org/wiki/Battle_of_Chunuk_Bair
+	- 

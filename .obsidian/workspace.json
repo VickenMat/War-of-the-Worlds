@@ -30,8 +30,77 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "e63916d8428cb1b4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Timeline/1915.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "b7cd03a5a23c2e2c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "444bdb844c83d6b2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Battle of Sari Bair.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f549c6ed0718da3e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Battle of Chunuk Bair.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f7beb723693b3e2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Battle of Lone Pine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211
+    "width": 255
   },
   "right": {
     "id": "c5832d1ab020562d",
@@ -97,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md"
+              }
             }
           }
         ]
@@ -154,36 +227,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cae2cc38cd09e6f0",
+  "active": "b7cd03a5a23c2e2c",
   "lastOpenFiles": [
+    "World War I/Battles/Gallipoli Campaign/Battle of Sari Bair.md",
+    "World War I/Battles/Gallipoli Campaign/Battle of Lone Pine.md",
+    "World War I/Battles/Gallipoli Campaign/Battle of Chunuk Bair.md",
+    "World War I/Battles/Western Front/Battle of the Marne.md",
+    "World War I/People/Ottoman Empire/Mustafa Kemal.md",
+    "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
+    "World War I/People/Great Britain/General Sir Ian Hamilton.md",
+    "World War I/Works Cited.md",
+    "World War I/Timeline/1915.md",
+    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
+    "World War I/Battles/Chemical Warfare.md",
+    "World War I/Battles/Western Front/Second Battle of Ypres.md",
+    "World War I/Timeline/1914.md",
+    "World War I/Countries/Central Powers/Bulgaria.md",
+    "World War I/People/Serbia/Cvjetko Popović.md",
+    "World War I/People/Serbia/Trifko Grabež.md",
+    "World War I/People/Serbia/Nedeljko Čabrinović.md",
+    "World War I/People/Serbia/Muhamed Mehmedbašić.md",
+    "World War I/People/Serbia/Vaso Čubrilović.md",
+    "World War I/People/Germany/Erich Ludendorff.md",
+    "World War I/People/Russia/General Yakov Grigoryevich Zhilinsky.md",
+    "World War I/People/Germany/Paul von Hindenburg.md",
+    "World War I/People/Great Britain/Herbert H. Asquith.md",
     "World War I/People/Australia/William Hughes.md",
     "World War I/People/Australia",
     "World War I/Countries/Allied Powers/British Empire/Australia.md",
     "World War I/Battles/Armies/Canadian Expeditionary Force.md",
     "World War I/People/Canada",
-    "World War I/Countries/Allied Powers/British Empire/Canada.md",
-    "World War I/People/Canada/Robert Borden.md",
-    "World War I/Countries/Allied Powers/British Empire/Great Britain.md",
-    "World War I/Works Cited.md",
     "World War I/People/India",
-    "World War I/Countries/Allied Powers/British Empire/India.md",
-    "World War I/Battles/Armies/British Expeditionary Force.md",
-    "World War I/Battles/Armies/Indian Army.md",
-    "World War I/People/India/Lord Chelmsford.md",
-    "World War I/Battles/Armies/Indian Expeditionary Force.md",
-    "World War I/Countries/Allied Powers/United States.md",
-    "World War I/Countries/Allied Powers/Serbia.md",
-    "World War I/Countries/Allied Powers/Russia.md",
-    "World War I/Countries/Allied Powers/Romania.md",
-    "World War I/Countries/Allied Powers/Portugal.md",
-    "World War I/Countries/Allied Powers/Montenegro.md",
-    "World War I/Countries/Allied Powers/Japan.md",
-    "World War I/Countries/Allied Powers/Italy.md",
-    "World War I/Countries/Allied Powers/France.md",
-    "World War I/Countries/Allied Powers/China.md",
-    "World War I/Battles/Armies/Belgian Army.md",
-    "World War I/Countries/Allied Powers/Belgium.md",
-    "World War I/Battles/Armies/Egyptian Expeditionary Force.md",
     "World War I/Battles/Armies",
     "World War I/People/New Zealand",
     "World War I/People/Newfoundland",
