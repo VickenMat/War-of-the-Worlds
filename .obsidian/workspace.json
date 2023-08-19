@@ -60,13 +60,13 @@
             }
           },
           {
-            "id": "444bdb844c83d6b2",
+            "id": "1d67d39a04e8ad82",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Battle of Sari Bair.md",
+                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
                 "mode": "source",
                 "source": false
               },
@@ -74,33 +74,21 @@
             }
           },
           {
-            "id": "f549c6ed0718da3e",
+            "id": "7bf4f28fd8b63bf6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Battle of Chunuk Bair.md",
+                "file": "World War I/Battles/Gallipoli Campaign/Cape Helles.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "f7beb723693b3e2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Battle of Lone Pine.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
+                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
+                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md"
+                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md"
               }
             }
           }
@@ -227,17 +215,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7cd03a5a23c2e2c",
+  "active": "1d67d39a04e8ad82",
   "lastOpenFiles": [
-    "World War I/Battles/Gallipoli Campaign/Battle of Sari Bair.md",
-    "World War I/Battles/Gallipoli Campaign/Battle of Lone Pine.md",
-    "World War I/Battles/Gallipoli Campaign/Battle of Chunuk Bair.md",
-    "World War I/Battles/Western Front/Battle of the Marne.md",
-    "World War I/People/Ottoman Empire/Mustafa Kemal.md",
+    "World War I/Battles/Gallipoli Campaign/Cape Helles.md",
+    "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
     "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
-    "World War I/People/Great Britain/General Sir Ian Hamilton.md",
+    "World War I/People/Germany/Liman von Sanders.md",
     "World War I/Works Cited.md",
     "World War I/Timeline/1915.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
+    "World War I/Battles/Gallipoli Campaign/Suvla Bay.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
+    "World War I/People/Great Britain/Winston Churchill.md",
+    "World War I/Countries/Allied Powers/British Empire/Australia.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive",
+    "World War I/Battles/Western Front/Battle of the Marne.md",
+    "World War I/People/Ottoman Empire/Mustafa Kemal.md",
+    "World War I/People/Great Britain/General Sir Ian Hamilton.md",
     "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
     "World War I/Battles/Chemical Warfare.md",
     "World War I/Battles/Western Front/Second Battle of Ypres.md",
@@ -246,16 +244,7 @@
     "World War I/People/Serbia/Cvjetko Popović.md",
     "World War I/People/Serbia/Trifko Grabež.md",
     "World War I/People/Serbia/Nedeljko Čabrinović.md",
-    "World War I/People/Serbia/Muhamed Mehmedbašić.md",
-    "World War I/People/Serbia/Vaso Čubrilović.md",
-    "World War I/People/Germany/Erich Ludendorff.md",
-    "World War I/People/Russia/General Yakov Grigoryevich Zhilinsky.md",
-    "World War I/People/Germany/Paul von Hindenburg.md",
-    "World War I/People/Great Britain/Herbert H. Asquith.md",
-    "World War I/People/Australia/William Hughes.md",
     "World War I/People/Australia",
-    "World War I/Countries/Allied Powers/British Empire/Australia.md",
-    "World War I/Battles/Armies/Canadian Expeditionary Force.md",
     "World War I/People/Canada",
     "World War I/People/India",
     "World War I/Battles/Armies",
@@ -263,7 +252,6 @@
     "World War I/People/Newfoundland",
     "World War I/People/South Africa",
     "World War I/People/Belgium",
-    "World War I/People/China",
-    "World War I/People/Japan"
+    "World War I/People/China"
   ]
 }

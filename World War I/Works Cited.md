@@ -70,7 +70,25 @@
 	- https://www.kumc.edu/school-of-medicine/academics/departments/history-and-philosophy-of-medicine/archives/wwi/essays/medicine/gas-in-the-great-war.html
 - [[Gallipoli Campaign]]
 	- https://www.iwm.org.uk/history/what-you-need-to-know-about-the-gallipoli-campaign
+	- https://www.nam.ac.uk/explore/gallipoli#:~:text=Fought%20during%20the%20First%20World,disastrous%20consequences%20for%20the%20Allies.
+	- https://www.firstworldwar.com/battles/overview_gf.htm
+	- https://www.history.com/news/winston-churchills-world-war-disaster
 - [[Battle of Chunuk Bair]]
 	- https://www.iwm.org.uk/history/what-you-need-to-know-about-the-gallipoli-campaign
 	- https://en.wikipedia.org/wiki/Battle_of_Chunuk_Bair
-	- 
+- [[Battle of Sari Bair]]
+	- https://en.wikipedia.org/wiki/Battle_of_Sari_Bair
+- [[Battle of Krithia Vineyard]]
+	- https://en.wikipedia.org/wiki/Battle_of_Krithia_Vineyard
+- [[Battle of Scimitar Hill]]
+	- https://en.wikipedia.org/wiki/Battle_of_Scimitar_Hill
+	- https://www.firstworldwar.com/battles/scimitarhill.htm
+- [[Winston Churchill]]
+	- https://www.history.com/news/winston-churchills-world-war-disaster
+- [[Suvla Bay]]
+	- https://www.firstworldwar.com/battles/overview_gf.htm
+- [[Cape Helles]]
+	- https://www.firstworldwar.com/battles/landings_apr15.htm
+- [[Anzac Cove]]
+	- https://www.firstworldwar.com/battles/landings_apr15.htm
+- 

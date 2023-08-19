@@ -1,0 +1,1 @@
+- Allies reached the summit after eight days but the [[Ottoman Empire]] held their positions
