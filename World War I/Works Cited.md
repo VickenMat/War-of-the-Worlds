@@ -87,8 +87,11 @@
 	- https://www.history.com/news/winston-churchills-world-war-disaster
 - [[Suvla Bay]]
 	- https://www.firstworldwar.com/battles/overview_gf.htm
+	- https://www.firstworldwar.com/battles/suvlabay.htm
 - [[Cape Helles]]
 	- https://www.firstworldwar.com/battles/landings_apr15.htm
 - [[Anzac Cove]]
 	- https://www.firstworldwar.com/battles/landings_apr15.htm
+- [[Sir Frederick Stopford]]
+	- https://www.firstworldwar.com/battles/suvlabay.htm
 - 

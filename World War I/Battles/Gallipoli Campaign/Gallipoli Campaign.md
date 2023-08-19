@@ -16,17 +16,17 @@ April [[1915]] landing
 		- Strengthen the Allied Middle East
 		- Capture Constantinople and the Dardanelles Straights to knock the Ottoman Empire out of the war
 - Cape Helles Landing
-	- The British Division made 5 beach landings at Cape Helles
+	- Led by [[Aylmer Hunter-Weston]], the British Division made 5 beach landings at Cape Helles
 		- Y Beach was originally undefended and captured, but later evacuated after Ottoman reinforcements arrived
 		- W and V Beaches saw heavy British casualties due to barbed wire and heavily defended Ottoman positions
 		- V Beach faced heavy machine gun fire from the Sedd-el-Bahr fortress
 			- Only 21 of 200 men made it ashore
-		- S was the final beach landing
+		- S Beach was taken shortly
 	- Ultimately, the British offensive at Helles came at a massive human cost for little gain
 - Anzac Cove Landing
-	- Goal was to take the Sari Bair Range and once in control, move across the peninsula to cut off the southern half and prevent Ottoman reinforcements
-	- Although less defended at Anzac Cove, the mismanagement of landing zones led to steep cliff climbing to reach the heights which allowed for Ottoman reinforcements
-		- [[Mustafa Kemal]] of the Ottomans personally led the 57th Regiment in a 
+	- Led by [[William Birdwood]], the goal was to take the Sari Bair Range and once in control, move across the peninsula to cut off the southern half and prevent Ottoman reinforcements
+	- Although unopposed at Anzac Cove, the mismanagement of landing zones led to steep cliff climbing to reach the heights which allowed for Ottoman reinforcements
+		- [[Mustafa Kemal]] of the Ottomans personally led the 57th Regiment 
 	- Fighting, particularly at Anzac cove, soon turned into a trench warfare stalemate, similar to the Western Front
 - August Offensive
 	- Launched on August 6, its goal was to land at [[Suvla Bay]] to push across the peninsula and be a diversionary attack to take attention away from Cape Helles

@@ -86,9 +86,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f50d92d40439b3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 200
   },
   "right": {
     "id": "c5832d1ab020562d",
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
+                "file": "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
+                "file": "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Anzac Cove.md"
+                "file": "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md"
               }
             }
           }
@@ -215,20 +227,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d67d39a04e8ad82",
+  "active": "f50d92d40439b3a3",
   "lastOpenFiles": [
     "World War I/Battles/Gallipoli Campaign/Cape Helles.md",
+    "World War I/Timeline/1915.md",
     "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
+    "World War I/Battles/Gallipoli Campaign/Suvla Bay.md",
+    "World War I/People/Great Britain/Sir Frederick Stopford.md",
+    "World War I/Works Cited.md",
+    "World War I/People/Great Britain/William Birdwood.md",
+    "World War I/People/Great Britain/Aylmer Hunter-Weston.md",
+    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
     "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
     "World War I/People/Germany/Liman von Sanders.md",
-    "World War I/Works Cited.md",
-    "World War I/Timeline/1915.md",
     "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
-    "World War I/Battles/Gallipoli Campaign/Suvla Bay.md",
     "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
     "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
     "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
     "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
     "World War I/People/Great Britain/Winston Churchill.md",
     "World War I/Countries/Allied Powers/British Empire/Australia.md",
@@ -241,9 +256,6 @@
     "World War I/Battles/Western Front/Second Battle of Ypres.md",
     "World War I/Timeline/1914.md",
     "World War I/Countries/Central Powers/Bulgaria.md",
-    "World War I/People/Serbia/Cvjetko Popović.md",
-    "World War I/People/Serbia/Trifko Grabež.md",
-    "World War I/People/Serbia/Nedeljko Čabrinović.md",
     "World War I/People/Australia",
     "World War I/People/Canada",
     "World War I/People/India",
