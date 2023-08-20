@@ -1,4 +1,7 @@
 
+![undefined](https://upload.wikimedia.org/wikipedia/commons/4/4f/Anzac_Cove.jpg)
+[[Anzac Cove]], [[1915]]
+
 - On April 25, [[1915]], [[General Sir Ian Hamilton]] led [[Great Britain]] and its empire into simultaneous beach landings at Anzac Cove and [[Cape Helles]] as part of the [[Gallipoli Campaign]]
 - Anzac Cove, originally known as Ari Burnu and labeled as 'Z' Beach was far better managed by [[William Birdwood]] as opposed to the Helles landings led by [[Aylmer Hunter-Weston]]
 	- Opposing him was [[Liman von Sanders]], a German officer attached to the region and 84,000 Turkish troops from the [[Ottoman Empire]]
@@ -12,3 +15,9 @@
 		- On May 24, a temporary truce was agreed in order for the Turks to collect and bury their dead in No Man's Land
 	- In the coming months, Liman would grow his reinforcements core to 14 divisions
 - With minimal ground gained, a new front would attempt to be opened with the [[Suvla Bay]] landings in August of 1915
+
+Significance
+- Landing in unison with Cape Helles, Anzac Cove would be hotly contested for months, with failed attempts to break out in late August
+
+![North Beach looking toward Suvla](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/View_of_Anzac_Cove_-_Gallipoli_Peninsula_-_Dardanelles_-_Turkey_-_01_%285734713946%29.jpg/1920px-View_of_Anzac_Cove_-_Gallipoli_Peninsula_-_Dardanelles_-_Turkey_-_01_%285734713946%29.jpg)
+Modern day Anzac Cove

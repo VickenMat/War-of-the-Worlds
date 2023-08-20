@@ -1,6 +1,6 @@
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/4/43/MapHellesWarZoneGallipoli1915.jpg)
-Krithia Vineyard [[1915]]
+Krithia Vineyard, [[1915]]
 
 - Allied 29th Division attack launched on August 6 1915 during the [[Gallipoli Campaign]] 
 - Goal was to divert attention and defenders so the [[Battle of Sari Bair]] (primary target) could be captured
@@ -10,5 +10,5 @@ Krithia Vineyard [[1915]]
 
 Significance
 - Meant to draw Ottoman reinforcements to a less strategic point to allow British troops to attack Sari Bair range
-- British took many losses for an insignificant amount of land
+- British took many losses for insignificant land
 - Ottomans reinforced the north regardless, hampering the British attacks at the range

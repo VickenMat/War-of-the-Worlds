@@ -1,6 +1,6 @@
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/4/40/Chunuk_Bair_assault_8th_August_1915.jpg)
-Battle of Chunuk Bair [[1915]]
+Battle of Chunuk Bair, [[1915]]
 
 - On August 7 1915, [[General Sir Ian Hamilton]] launched a [[Great Britain]] (British Empire) assault on the hills of Chunuk Bair, north of Anzac cove in order to break the stalemate the [[Gallipoli Campaign]] had turned into and secure the Sari Bair Range to capture the high ground
 - Fought between the [[Australian and New Zealand Army Corps]] (British Empire) and the [[Ottoman Empire]] as part of the August Offensive
@@ -21,3 +21,4 @@ Battle of Chunuk Bair [[1915]]
 
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Battle_of_Sari_Bair%2C_showing_the_British_attack%2C_6%E2%80%938_August_1915.png/1024px-Battle_of_Sari_Bair%2C_showing_the_British_attack%2C_6%E2%80%938_August_1915.png)
+Allied attack plans, 1915

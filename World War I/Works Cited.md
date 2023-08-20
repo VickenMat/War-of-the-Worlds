@@ -78,6 +78,7 @@
 	- https://en.wikipedia.org/wiki/Battle_of_Chunuk_Bair
 - [[Battle of Sari Bair]]
 	- https://en.wikipedia.org/wiki/Battle_of_Sari_Bair
+	- https://nzhistory.govt.nz/media/photo/sari-bair-offensive-map
 - [[Battle of Krithia Vineyard]]
 	- https://en.wikipedia.org/wiki/Battle_of_Krithia_Vineyard
 - [[Battle of Scimitar Hill]]
@@ -94,4 +95,10 @@
 	- https://www.firstworldwar.com/battles/landings_apr15.htm
 - [[Sir Frederick Stopford]]
 	- https://www.firstworldwar.com/battles/suvlabay.htm
+- [[Battle of Lone Pine]]
+	- https://en.wikipedia.org/wiki/Battle_of_Lone_Pine#/media/File:Anzac_plateaus_and_ridges.png
+	- https://www.firstworldwar.com/battles/lonepine.htm
+	- https://en.wikipedia.org/wiki/Battle_of_Sari_Bair#/media/File:Southern_Trench_in_Lone_Pine,_Gallipoli,_8_August_1915_(Graphic_Content)_(17797424431).jpg
+- [[Battle of Hill 60]]
+	- https://en.wikipedia.org/wiki/Battle_of_Hill_60_(Gallipoli)#/media/File:Hill_60_Gallipoli_29_Aug_1915.png
 - 

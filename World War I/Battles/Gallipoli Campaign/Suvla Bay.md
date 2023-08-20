@@ -1,4 +1,6 @@
 
+![undefined](https://upload.wikimedia.org/wikipedia/commons/e/e9/Suvla_from_Battleship_Hill.jpg)
+
 - By August of [[1915]], the British and [[Australian and New Zealand Army Corps]] had established two beachheads, without much advance, at [[Anzac Cove]] and [[Cape Helles]] as part of the [[Gallipoli Campaign]]
 - Beginning on August 6 1915 and known as the "August Offensive", the Allies used their fresh reinforcements to launch attacks at Sulva Bay, north of Anzac Cove in an attempt to break out of the stalemate
 - Hamilton instructed [[Aylmer Hunter-Weston]] of Cape Helles to strike and [[William Birdwood]] of Anzac Cove to seize the Sari Bair Ridge with 25,000 reinforcements smuggled into the area

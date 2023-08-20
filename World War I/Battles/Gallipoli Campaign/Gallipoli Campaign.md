@@ -10,7 +10,7 @@ April [[1915]] landing
 - The Dardanelles Straight would lead to the Turkish capital of Constantinople (Istanbul), but the was heavily fortified with minefields, fortifications, and gun emplacements due to its strategic importance
 	- The failure of naval forces to destroy these defenses (Alerting the Ottomans and eliminating the element of surprise) in February and March 1915 forced the Allies to send troops to seize the peninsula
 - In wake of the failed naval attack, on April 25 1915, [[General Sir Ian Hamilton]] landed the [[Australian and New Zealand Army Corps]] (Anzac) near Gaba Tepe at Ari Burnu (now known as [[Anzac Cove]]) and the British 29th Division at [[Cape Helles]], beginning the Gallipoli Campaign
-- Opposing him was German officer [[Liman von Sanders]] who had a force of 84,000 Turkish troops
+- Opposing him was German officer [[Liman von Sanders]] who held a force of 84,000 Turkish troops
 	- **Goal** of the campaign
 		- Allow [[Great Britain]] and [[France]] to open supply lines by linking the Mediterranean and Black Sea to support Russia
 		- Strengthen the Allied Middle East
@@ -33,7 +33,7 @@ April [[1915]] landing
 	- [[Battle of Chunuk Bair]] commenced north of Anzac cove, near the hills of Chunuk Bair
 	- [[Battle of Lone Pine]] and [[Battle of Krithia Vineyard]] were failed attempts to divert Ottoman attention from the [[Battle of Sari Bair]]
 	- The offensive as a whole slowed and lost momentum by August 10 due to stiff Turkish resistance and indecisive Allied command
-	- In late August the [[Battle of Scimitar Hill]] and [[Battle of Hill 60]] were launched in another attempt to break out of Suvla Bay, but the Allies couldn't advance and had to dig in
+	- In late August the [[Battle of Scimitar Hill]] and [[Battle of Hill 60]] were launched as last ditch attempts to break out of Anzac Cove
 - The Allies were trapped at Helles, Anzac, and Suvla Bay, all of which were overlooked by high ground and under artillery and infantry fire
 	- Casualties were heavy, the summer heat pounded on the soldiers, disease was rampant, and food became inedible, and swarms of corpse flies surrounded them
 - In January [[1916]], the British withdrew the Allied army from Gallipoli with minimal losses
@@ -42,11 +42,10 @@ April [[1915]] landing
 - In the aftermath, each side suffered roughly 250,000 casualties with 46,000 Allied and 65,000 Turkish troops dead
 
 Significance
-- Goal was to seize control of the Dardanelles Straight to have access to Constantinople and link the Mediterranean Sea with the Black Sea, which would have given France and Britain a direct supply line to Russia
+- Goal was to seize control of the Dardanelles Straight to have access to Constantinople and **link** the Mediterranean Sea with the Black Sea, which would have given France and Britain a direct supply line to Russia
 - The offensive was considered a disaster from the Allied perspective and rejuvenated the Ottoman war effort
 - Churchill, fairly or unfairly was considered the scapegoat
 - A supply line for Russia would not be established and the new front to undercut the Central Powers would fail to exist
-
 
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/7/73/Map_of_Turkish_forces_at_Gallipoli_April_1915.png)
