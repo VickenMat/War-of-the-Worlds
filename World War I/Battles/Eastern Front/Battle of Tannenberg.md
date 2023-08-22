@@ -3,7 +3,7 @@
 
 - August 26-13, [[1914]]
 - Fought on the [[Eastern Front]] in Tannenberg, East Prussia between [[Germany]] and [[Russia]]
-- Russians had more than a two-to-one superiority against the Germans
+- Russians had more than a two-to-one superiority against the Germans 
 - [[General Yakov Grigoryevich Zhilinsky]], chief of general staff of Russia until 1914, had made an arrangement with [[France]] where they would have 800,000 men in the field by the 15th day of mobilization
 	- This arrangement overwhelmed the Russian war machine and lead to faulty leadership and military unreadiness
 - Russia sent two armies to East Prussia, while Germany, according to the [[Schlieffen Plan]] had its forces in France
@@ -15,7 +15,7 @@
 - The Battle of Tannenberg would be Germany's most greatest victory against Russia
 
 - Significance
-	- Germany crushed the uncoordinated and divided Russian army
+	- Germany crushed the uncoordinated and divided Russian army - most complete German victory
 	- Although Russia lost the battle, they were able to move two German corps from the [[Western Front]] to the Eastern Front, which aided in their defeat at [[Battle of the Marne]] in September
 
 

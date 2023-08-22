@@ -1,2 +1,2 @@
-- Commander of the [[Mediterranean Expeditionary Force]] (MEF)
+- Semi-retired officer who was sent to Egypt to be the commander of the [[Mediterranean Expeditionary Force]] (MEF)
 - Launched [[Gallipoli Campaign]]

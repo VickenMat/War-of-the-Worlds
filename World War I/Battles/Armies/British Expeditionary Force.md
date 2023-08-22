@@ -1,0 +1,2 @@
+
+- Landed at [[Cape Helles]] during the [[Gallipoli Campaign]] on April 25 [[1915]], led by [[Aylmer Hunter-Weston]]

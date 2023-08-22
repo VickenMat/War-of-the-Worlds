@@ -57,7 +57,6 @@
   "World War I/People/Russia": "RiFolder3Fill",
   "World War I/People/Serbia": "RiFolder3Fill",
   "World War I/People/United States": "RiFolder3Fill",
-  "World War I/Battles/Gallipoli Campaign": "RiFolder3Fill",
   "World War II/Battles/European Theater/Operations": "RiFolderFill",
   "World War II/Battles/Pacific Theater/Operations": "RiFolderFill",
   "World War I/People/Ottoman Empire": "RiFolder3Fill",
@@ -76,5 +75,8 @@
   "World War I/People/Australia": "RiFolder3Fill",
   "World War I/Battles/Armies": "RiFolder3Fill",
   "World War I/Countries/Allied Powers/British Empire": "RiFolderFill",
-  "World War I/Battles/Gallipoli Campaign/August Offensive": "RiFolder3Fill"
+  "World War I/Battles/Middle East": "RiFolder3Fill",
+  "World War I/Battles/Middle East/Gallipoli Campaign": "RiFolderFill",
+  "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive": "RiFolder3Fill",
+  "World War I/Battles/Middle East/Sinai Campaign": "RiFolderFill"
 }

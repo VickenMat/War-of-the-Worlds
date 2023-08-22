@@ -1,6 +1,7 @@
 - [[Battle of the Marne]]
 	- https://www.britannica.com/event/First-Battle-of-the-Marne
 	- https://www.history.com/this-day-in-history/first-battle-of-the-marne-begins
+	- https://www.firstworldwar.com/battles/marne1.htm
 - [[Schlieffen Plan]]
 	- https://www.open.edu/openlearn/history-the-arts/history/what-was-the-schlieffen-plan#:~:text=Prior%20to%20World%20War%20I,on%20the%20flanks%20and%20rear.
 - [[1914]]
@@ -73,6 +74,7 @@
 	- https://www.nam.ac.uk/explore/gallipoli#:~:text=Fought%20during%20the%20First%20World,disastrous%20consequences%20for%20the%20Allies.
 	- https://www.firstworldwar.com/battles/overview_gf.htm
 	- https://www.history.com/news/winston-churchills-world-war-disaster
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
 - [[Battle of Chunuk Bair]]
 	- https://www.iwm.org.uk/history/what-you-need-to-know-about-the-gallipoli-campaign
 	- https://en.wikipedia.org/wiki/Battle_of_Chunuk_Bair
@@ -101,4 +103,30 @@
 	- https://en.wikipedia.org/wiki/Battle_of_Sari_Bair#/media/File:Southern_Trench_in_Lone_Pine,_Gallipoli,_8_August_1915_(Graphic_Content)_(17797424431).jpg
 - [[Battle of Hill 60]]
 	- https://en.wikipedia.org/wiki/Battle_of_Hill_60_(Gallipoli)#/media/File:Hill_60_Gallipoli_29_Aug_1915.png
-- 
+- [[General Sir Ian Hamilton]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
+- [[Mediterranean Expeditionary Force]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
+- [[Australian and New Zealand Army Corps]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
+- [[William Birdwood]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
+- [[Aylmer Hunter-Weston]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
+- [[British Expeditionary Force]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli#:~:text=The%20Gallipoli%20Campaign%20was%20the,defeat%20on%2018%20March%201915.
+- [[Australian Imperial Force]]
+	- https://anzacportal.dva.gov.au/wars-and-missions/ww1/where-australians-served/gallipoli/aftermath
+- [[First Battle of Ypres]]
+	- https://www.firstworldwar.com/battles/ypres1.htm
+	- https://www.history.com/this-day-in-history/first-battle-of-ypres
+	- https://www.firstworldwar.com/battles/ypres1st.htm
+- [[Defense of Suez Canal]]
+	- https://www.firstworldwar.com/battles/suez.htm
+	- https://www.longlongtrail.co.uk/battles/the-campaign-in-egypt-and-palestine/the-defence-of-the-suez-canal/
+- [[Suez Expeditionary Force]]
+	- https://www.firstworldwar.com/battles/suez.htm
+- [[Lusitania]]
+	- https://www.britannica.com/list/timeline-of-world-war-i
+	- https://www.history.com/news/how-the-sinking-of-lusitania-changed-wwi
+	- 

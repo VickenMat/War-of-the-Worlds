@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "7bd2ab8044652f11",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Thoughts.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "92a8eec0bf71d264",
             "type": "leaf",
             "pinned": true,
@@ -44,9 +58,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9f67a4c869649611",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Lusitania.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Suvla Bay.md",
+                "file": "World War I/Battles/Lusitania.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Suvla Bay.md",
+                "file": "World War I/Battles/Lusitania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Battles/Gallipoli Campaign/Suvla Bay.md"
+                "file": "World War I/Battles/Lusitania.md"
               }
             }
           }
@@ -173,43 +199,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4fd9a8c0f5a987",
+  "active": "9f67a4c869649611",
   "lastOpenFiles": [
-    "World War I/Battles/Gallipoli Campaign/Gallipoli Campaign.md",
-    "World War I/Battles/Gallipoli Campaign/Anzac Cove.md",
-    "World War I/Battles/Gallipoli Campaign/Cape Helles.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
+    "World War I/Thoughts.md",
     "World War I/Works Cited.md",
-    "World War I/Battles/Gallipoli Campaign/Suvla Bay.md",
     "World War I/Timeline/1915.md",
-    "World War I/People/Great Britain/Sir Frederick Stopford.md",
-    "World War I/People/Great Britain/William Birdwood.md",
-    "World War I/People/Great Britain/Aylmer Hunter-Weston.md",
-    "World War I/People/Germany/Liman von Sanders.md",
-    "World War I/People/Great Britain/Winston Churchill.md",
-    "World War I/Countries/Allied Powers/British Empire/Australia.md",
-    "World War I/Battles/Gallipoli Campaign/August Offensive",
-    "World War I/Battles/Western Front/Battle of the Marne.md",
-    "World War I/People/Ottoman Empire/Mustafa Kemal.md",
-    "World War I/People/Great Britain/General Sir Ian Hamilton.md",
-    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
-    "World War I/Battles/Chemical Warfare.md",
-    "World War I/Battles/Western Front/Second Battle of Ypres.md",
+    "World War I/Battles/Lusitania.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
+    "Pasted image 20230822174635.png.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
+    "Pasted image 20230822174635.png",
+    "World War I/Battles/Armies/Suez Expeditionary Force.md",
     "World War I/Timeline/1914.md",
-    "World War I/Countries/Central Powers/Bulgaria.md",
+    "World War I/Battles/Middle East/Sinai Campaign",
+    "World War I/Battles/Middle East",
+    "World War I/Battles/Western Front/First Battle of Ypres.md",
+    "World War I/Battles/Western Front/Second Battle of Ypres.md",
+    "World War I/Battles/Western Front/Third Battle of Ypres.md",
+    "World War I/Battles/Western Front/Battle of the Marne.md",
+    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
+    "World War I/Battles/Armies/New Zealand Expeditionary Force.md",
+    "World War I/Battles/Armies/Mediterranean Expeditionary Force.md",
+    "World War I/Battles/Armies/Indian Expeditionary Force.md",
+    "World War I/Battles/Armies/Indian Army.md",
+    "World War I/Battles/Armies/Egyptian Expeditionary Force.md",
+    "World War I/Battles/Armies/British Expeditionary Force.md",
+    "World War I/Battles/Armies/Canadian Expeditionary Force.md",
+    "World War I/Battles/Armies/Australian Imperial Force.md",
+    "World War I/Battles/Armies/Australian and New Zealand Army Corps.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Suvla Bay.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Cape Helles.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive",
     "World War I/People/Australia",
     "World War I/People/Canada",
     "World War I/People/India",
     "World War I/Battles/Armies",
     "World War I/People/New Zealand",
     "World War I/People/Newfoundland",
-    "World War I/People/South Africa",
-    "World War I/People/Belgium",
-    "World War I/People/China"
+    "World War I/People/South Africa"
   ]
 }

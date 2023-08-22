@@ -13,7 +13,8 @@
 - The retreat ended German plans plans of a two-front war strategy, also called the [[Schlieffen Plan]], making it one of the most decisive battles in the war
 
 - Significance
-	- Although the Allies gained a foothold on Northern France, the Battle of the Marne  meant the end of the Schlieffen Plan and that this conflict would be an extended one
+	- German advance would be halted, setting up for stalemate and trench warfare
+	- Although the Allies gained a foothold on Northern France, the Battle of the Marne meant the end of the Schlieffen Plan and that this conflict would be an extended one
 	- There was no turning back as all nations involved were caught in a trap with no exit
 
 
