@@ -6,9 +6,9 @@ Questions
 
 
 
-
-Causes
-- Beginning of World War 1
-	- [[Franz Ferdinand]] assassinated
-- U.S. Involvement in the War
-	- [[Lusitania]]
+## Key Points in the War
+- [[Franz Ferdinand]] assassinated
+	- Europe plunged as chain reactions of allies declared war
+- [[Lusitania]] sunk, U.S. relations with [[Germany]] strained
+- [[Zimmermann Telegram]] intercepted - last straw
+	- Brought the United States into the war

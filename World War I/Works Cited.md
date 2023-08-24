@@ -129,4 +129,7 @@
 - [[Lusitania]]
 	- https://www.britannica.com/list/timeline-of-world-war-i
 	- https://www.history.com/news/how-the-sinking-of-lusitania-changed-wwi
-	- 
+- [[Zimmermann Telegram]]
+	- https://www.history.com/news/how-the-sinking-of-lusitania-changed-wwi
+	- https://www.archives.gov/education/lessons/zimmermann
+	- https://www.britannica.com/event/Zimmermann-Telegram

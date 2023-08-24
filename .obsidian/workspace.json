@@ -60,12 +60,12 @@
             }
           },
           {
-            "id": "9f67a4c869649611",
+            "id": "c5cb13ae501ea36d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Lusitania.md",
+                "file": "World War I/Battles/Zimmermann Telegram.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Battles/Lusitania.md",
+                "file": "World War I/Battles/Zimmermann Telegram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Battles/Lusitania.md",
+                "file": "World War I/Battles/Zimmermann Telegram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Battles/Lusitania.md"
+                "file": "World War I/Battles/Zimmermann Telegram.md"
               }
             }
           }
@@ -199,12 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f67a4c869649611",
+  "active": "c5cb13ae501ea36d",
   "lastOpenFiles": [
     "World War I/Thoughts.md",
     "World War I/Works Cited.md",
-    "World War I/Timeline/1915.md",
+    "World War I/Battles/Zimmermann Telegram.md",
     "World War I/Battles/Lusitania.md",
+    "World War I/Timeline/1915.md",
+    "World War I/People/Germany/Arthur Zimmermann.md",
+    "World War I/People/Germany/Henrich von Eckhardt.md",
+    "Arthur Zimmerman.md",
     "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
     "Pasted image 20230822174635.png.md",
     "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
@@ -226,10 +230,6 @@
     "World War I/Battles/Armies/British Expeditionary Force.md",
     "World War I/Battles/Armies/Canadian Expeditionary Force.md",
     "World War I/Battles/Armies/Australian Imperial Force.md",
-    "World War I/Battles/Armies/Australian and New Zealand Army Corps.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Suvla Bay.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Cape Helles.md",
     "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive",
     "World War I/People/Australia",
     "World War I/People/Canada",
