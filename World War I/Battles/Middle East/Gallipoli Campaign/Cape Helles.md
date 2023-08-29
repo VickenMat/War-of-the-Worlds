@@ -17,3 +17,6 @@ Beach landings at Cape Helles, April [[1915]]
 
 Significance
 - Mismanaged and unorganized, the trench warfare at Cape Helles would ensue for months until the eventual evacuation of the peninsula
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/3/36/Sedd-el-Bahr_from_River_Clyde.jpg)
+Sedd-el-Bahr fort seen on April 25 1915 during the landing

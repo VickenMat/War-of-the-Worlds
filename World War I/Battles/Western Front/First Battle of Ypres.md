@@ -1,4 +1,6 @@
 
+![undefined](https://upload.wikimedia.org/wikipedia/commons/7/7f/Locations_of_the_Allied_and_German_armies%2C_19_October_1914.png)
+Allied and German army positions in Flanders, October 19 1914
 - October 19 [[1914]]
 - The Belgian city of Ypres had been a battle site throughout history due to its strategic location leading to the Channel ports in Flanders
 - Following the [[Battle of the Marne]], in October 1914, the "Race to the Sea" began
@@ -16,3 +18,6 @@ Significance
 - Germany attempting to seize the North Sea and English Channel, had to go through the Allies at Ypres
 - First of three battles
 - British and French would hold Ypres until the end of the war, despite repeated German attacks
+
+![B&W of WWI ending in Switzerland](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/WWI_Trench_ending_in_Switerland_-_CH-BAR_-_3238320.jpg/1920px-WWI_Trench_ending_in_Switerland_-_CH-BAR_-_3238320.jpg)
+After the battle, trenches stretched from Switzerland to the Belgian coast

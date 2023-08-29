@@ -2,6 +2,7 @@
 	- https://www.britannica.com/event/First-Battle-of-the-Marne
 	- https://www.history.com/this-day-in-history/first-battle-of-the-marne-begins
 	- https://www.firstworldwar.com/battles/marne1.htm
+	- https://en.wikipedia.org/wiki/First_Battle_of_the_Marne
 - [[Schlieffen Plan]]
 	- https://www.open.edu/openlearn/history-the-arts/history/what-was-the-schlieffen-plan#:~:text=Prior%20to%20World%20War%20I,on%20the%20flanks%20and%20rear.
 - [[1914]]
@@ -93,8 +94,10 @@
 	- https://www.firstworldwar.com/battles/suvlabay.htm
 - [[Cape Helles]]
 	- https://www.firstworldwar.com/battles/landings_apr15.htm
+	- https://en.wikipedia.org/wiki/Landing_at_Cape_Helles
 - [[Anzac Cove]]
 	- https://www.firstworldwar.com/battles/landings_apr15.htm
+	- https://nzhistory.govt.nz/media/photo/front-line-gallipoli-aug-dec-1915
 - [[Sir Frederick Stopford]]
 	- https://www.firstworldwar.com/battles/suvlabay.htm
 - [[Battle of Lone Pine]]
@@ -121,6 +124,7 @@
 	- https://www.firstworldwar.com/battles/ypres1.htm
 	- https://www.history.com/this-day-in-history/first-battle-of-ypres
 	- https://www.firstworldwar.com/battles/ypres1st.htm
+	- https://en.wikipedia.org/wiki/First_Battle_of_Ypres#:~:text=The%20First%20Battle%20of%20Ypres,%2C%20in%20West%20Flanders%2C%20Belgium.
 - [[Defense of Suez Canal]]
 	- https://www.firstworldwar.com/battles/suez.htm
 	- https://www.longlongtrail.co.uk/battles/the-campaign-in-egypt-and-palestine/the-defence-of-the-suez-canal/
@@ -133,3 +137,14 @@
 	- https://www.history.com/news/how-the-sinking-of-lusitania-changed-wwi
 	- https://www.archives.gov/education/lessons/zimmermann
 	- https://www.britannica.com/event/Zimmermann-Telegram
+- [[First Battle of Isonzo]]
+	- https://en.wikipedia.org/wiki/First_Battle_of_the_Isonzo#:~:text=The%20First%20Battle%20of%20the,June%20and%207%20July%201915.
+	- https://www.firstworldwar.com/battles/isonzo.htm
+- [[Sixth Battle of Isonzo]]
+	- https://www.britannica.com/event/Battles-of-the-Isonzo
+	- https://en.wikipedia.org/wiki/Battle_of_Gorizia_(1916)
+- [[Eleventh Battle of Isonzo]]
+	- https://www.britannica.com/event/Battles-of-the-Isonzo
+	- https://en.wikipedia.org/wiki/Eleventh_Battle_of_the_Isonzo
+	- https://www.firstworldwar.com/battles/isonzo11.htm
+- 

@@ -1,5 +1,6 @@
 
-![undefined](https://upload.wikimedia.org/wikipedia/commons/e/e9/Suvla_from_Battleship_Hill.jpg)
+![Anzac-Suvla sectors of Gallipoli, Aug-Dec 1915](https://nzhistory.govt.nz/files/styles/fullsize/public/gallipoli-late-1915-1000.jpg?itok=aljgKg5a)
+Suvla Landing, August 1915
 
 - By August of [[1915]], the British and [[Australian and New Zealand Army Corps]] had established two beachheads, without much advance, at [[Anzac Cove]] and [[Cape Helles]] as part of the [[Gallipoli Campaign]]
 - Beginning on August 6 1915 and known as the "August Offensive", the Allies used their fresh reinforcements to launch attacks at Sulva Bay, north of Anzac Cove in an attempt to break out of the stalemate
@@ -17,3 +18,6 @@
 Significance
 - In an attempt to break out of the stalemate, the Allies attempted to create a new front at Suvla Bay to connect with troops at Anzac Cove
 - The offensive lost momentum due to human capital and indecisiveness
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/e/e9/Suvla_from_Battleship_Hill.jpg)
+Modern day Suvla Bay

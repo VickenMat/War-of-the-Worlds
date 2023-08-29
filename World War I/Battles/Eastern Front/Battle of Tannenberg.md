@@ -1,7 +1,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7b/Tannenberg3008.jpg)
 
-- August 26-13, [[1914]]
+- August 26-30, [[1914]]
 - Fought on the [[Eastern Front]] in Tannenberg, East Prussia between [[Germany]] and [[Russia]]
 - Russians had more than a two-to-one superiority against the Germans 
 - [[General Yakov Grigoryevich Zhilinsky]], chief of general staff of Russia until 1914, had made an arrangement with [[France]] where they would have 800,000 men in the field by the 15th day of mobilization

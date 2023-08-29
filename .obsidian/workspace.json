@@ -46,7 +46,21 @@
             }
           },
           {
-            "id": "e63916d8428cb1b4",
+            "id": "91b08f6349e01214",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Timeline/1916.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "379f085bad73d51d",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -60,15 +74,17 @@
             }
           },
           {
-            "id": "c5cb13ae501ea36d",
+            "id": "293fc0eb349cca85",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Zimmermann Telegram.md",
+                "file": "World War I/Timeline/1914.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -138,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Battles/Zimmermann Telegram.md",
+                "file": "World War I/Timeline/1915.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Battles/Zimmermann Telegram.md",
+                "file": "World War I/Timeline/1915.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Battles/Zimmermann Telegram.md"
+                "file": "World War I/Timeline/1915.md"
               }
             }
           }
@@ -199,44 +215,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5cb13ae501ea36d",
+  "active": "379f085bad73d51d",
   "lastOpenFiles": [
-    "World War I/Thoughts.md",
-    "World War I/Works Cited.md",
-    "World War I/Battles/Zimmermann Telegram.md",
-    "World War I/Battles/Lusitania.md",
-    "World War I/Timeline/1915.md",
-    "World War I/People/Germany/Arthur Zimmermann.md",
-    "World War I/People/Germany/Henrich von Eckhardt.md",
-    "Arthur Zimmerman.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
-    "Pasted image 20230822174635.png.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
-    "Pasted image 20230822174635.png",
-    "World War I/Battles/Armies/Suez Expeditionary Force.md",
     "World War I/Timeline/1914.md",
+    "World War I/Battles/Western Front/Battle of the Marne.md",
+    "World War I/Battles/Zimmermann Telegram.md",
+    "World War I/Battles/Schlieffen Plan.md",
+    "World War I/Battles/Russian Revolution.md",
+    "World War I/Battles/Lusitania.md",
+    "World War I/Battles/Chemical Warfare.md",
+    "World War I/Battles/Battle of Jutland.md",
+    "World War I/Battles/Western Front/Western Front.md",
+    "World War I/Battles/Western Front/Vimy Ridge.md",
+    "World War I/Battles/Western Front/Third Battle of Ypres.md",
+    "World War I/Battles/Western Front/Second Battle of Ypres.md",
+    "World War I/Battles/Western Front/First Battle of Ypres.md",
+    "World War I/Works Cited.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Suvla Bay.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Anzac Cove.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Cape Helles.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
+    "World War I/Battles/Italian Front",
+    "Pasted image 20230822174635.png",
     "World War I/Battles/Middle East/Sinai Campaign",
     "World War I/Battles/Middle East",
-    "World War I/Battles/Western Front/First Battle of Ypres.md",
-    "World War I/Battles/Western Front/Second Battle of Ypres.md",
-    "World War I/Battles/Western Front/Third Battle of Ypres.md",
-    "World War I/Battles/Western Front/Battle of the Marne.md",
-    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
-    "World War I/Battles/Armies/New Zealand Expeditionary Force.md",
-    "World War I/Battles/Armies/Mediterranean Expeditionary Force.md",
-    "World War I/Battles/Armies/Indian Expeditionary Force.md",
-    "World War I/Battles/Armies/Indian Army.md",
-    "World War I/Battles/Armies/Egyptian Expeditionary Force.md",
-    "World War I/Battles/Armies/British Expeditionary Force.md",
-    "World War I/Battles/Armies/Canadian Expeditionary Force.md",
-    "World War I/Battles/Armies/Australian Imperial Force.md",
     "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive",
     "World War I/People/Australia",
     "World War I/People/Canada",
     "World War I/People/India",
     "World War I/Battles/Armies",
     "World War I/People/New Zealand",
-    "World War I/People/Newfoundland",
-    "World War I/People/South Africa"
+    "World War I/People/Newfoundland"
   ]
 }

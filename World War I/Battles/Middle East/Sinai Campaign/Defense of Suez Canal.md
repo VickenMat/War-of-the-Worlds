@@ -12,10 +12,16 @@ Suez Canal during the [[Sinai Campaign]], [[1916]]
 	- Once at the canal, the Turks would have only four days worth of supplies before having to return
 - The British deployed 30,000 [[Indian Expeditionary Force]] (IEF) troops in its defense
 - The Turkish attack was heavily reliant on a surprise attack, but British reconnaissance had warned the Allies in advance
-- On February 2, The Ottoman forces were repelled by the IEF, and after losing 2,000 men compared to the 150 Allied casualties, retreated
+- On February 2 1915, The Ottoman forces were repelled by the IEF, and after losing 2,000 men compared to the 150 Allied casualties, retreated
 - This would be the only Turkish offensive on the canal
 
 Significance
 - The Suez Canal was vital for British supply lines
 - A successful Allied defense denied the only Turkish attempt at the canal
 - The only positive for the Central Powers was that although they never again attacked, the British spent a large amount of troops defending it, which could have better been used during the [[Gallipoli Campaign]]
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Map4CanalAttacksDet.tif/lossy-page1-1280px-Map4CanalAttacksDet.tif.jpg)
+Turkish attack on Suez Canal, February 3 1915
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_camel_corps_at_Beersheba2.jpg/1920px-The_camel_corps_at_Beersheba2.jpg)
+Ottoman Camel Corps at Beersheba, 1915

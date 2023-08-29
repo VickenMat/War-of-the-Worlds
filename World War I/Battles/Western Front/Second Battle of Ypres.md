@@ -1,6 +1,6 @@
 
 ![](https://cdn.britannica.com/81/64281-004-55B31ED4/Ypres-Belgium.jpg?s=1500x700&q=85)
-
+Ypres in Belgium, 1915
 
 - April 22, [[1915]]
 - The second battle of Ypres was the only offensive the [[Germany]] launched in 1915

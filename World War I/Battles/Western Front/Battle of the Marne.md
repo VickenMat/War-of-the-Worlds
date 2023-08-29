@@ -18,3 +18,8 @@
 	- There was no turning back as all nations involved were caught in a trap with no exit
 
 
+![undefined](https://upload.wikimedia.org/wikipedia/commons/3/3b/German_soldiers_Battle_of_Marne_WWI.jpg)
+German soldiers wearing picklehaube helmets during the battle, 1914
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Infanterie-fran%C3%A7aise-rol.jpg/1920px-Infanterie-fran%C3%A7aise-rol.jpg)
+French infantry charging into battle, 1914
