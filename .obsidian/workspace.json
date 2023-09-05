@@ -76,18 +76,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8858b1a38b59e11c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Battles/Mexican Revolution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 3
@@ -219,33 +207,35 @@
   },
   "active": "379f085bad73d51d",
   "lastOpenFiles": [
-    "World War I/Battles/Mexican Revolution.md",
-    "World War I/Timeline/1915.md",
     "World War I/Timeline/1914.md",
+    "World War I/Treaties/Christmas Truce.md",
+    "World War I/People/Serbia/Radoje Ljutovac.md",
+    "World War I/People/Italy/Benito Mussolini.md",
+    "World War I/Battles/Western Front/First Battle of Ypres.md",
+    "World War I/Treaties/London Agreement.md",
+    "World War I/Battles/Western Front/Battle of Mulhouse.md",
+    "World War I/Battles/Western Front/Battle of Cer.md",
+    "World War I/Battles/Western Front/Battle of Mulhouse",
+    "World War I/People/United States/Babe Ruth.md",
+    "World War I/People/Belgium/Albert Hustin.md",
+    "World War I/People/India/Mahatma Gandhi.md",
+    "World War I/People/Serbia/Gavrilo Princip.md",
+    "World War I/People/Austria-Hungary/Franz Ferdinand.md",
+    "World War I/Battles/Mexican Revolution.md",
     "World War I/Works Cited.md",
+    "World War I/Timeline/1915.md",
+    "World War I/Battles/Armenian Genocide/Armenian Genocide.md",
+    "World War I/People/United States/William J. Simmons.md",
+    "World War I/Battles/Western Front/Battle of Loos.md",
+    "World War I/People/Great Britain/General Sir Douglas Haig.md",
+    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
     "Batallas_durante_la_revolución_maderista.svg.png",
+    "World War I/People/Germany/Kurt Wintgens.md",
     "World War I/People/Mexico/Eulalio Gutierrez.md",
     "World War I/People/Mexico/Pascual Orozco.md",
     "World War I/People/Mexico/Victoriano Huerta.md",
     "World War I/People/Mexico/Felix Diaz.md",
-    "World War I/People/Mexico/Venustiano Carranza.md",
-    "World War I/People/Mexico/Emiliano Zapata.md",
-    "World War I/People/Mexico/Francisco Madero.md",
-    "World War I/People/Mexico/Porfirio Diaz.md",
-    "World War I/Countries/Mexico.md",
     "World War I/People/Mexico",
-    "World War I/People/Mexico/Alvaro Obregon.md",
-    "World War I/People/Mexico/Pancho Villa.md",
-    "World War I/Treaties/Tehcir Law.md",
-    "World War I/Battles/Armenian Genocide/Armenian Genocide.md",
-    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
-    "World War I/Thoughts.md",
-    "World War I/Treaties/Treaty of London.md",
-    "World War I/Treaties/Sykes-Picot Agreement.md",
-    "World War I/Treaties/Constantinople Agreement.md",
-    "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
-    "World War I/Battles/Western Front/Battle of Messines.md",
-    "World War I/Battles/Western Front/Western Front.md",
     "World War I/Battles/Armenian Genocide",
     "World War I/Battles/Italian Front",
     "Pasted image 20230822174635.png",
@@ -254,7 +244,6 @@
     "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive",
     "World War I/People/Australia",
     "World War I/People/Canada",
-    "World War I/People/India",
-    "World War I/Battles/Armies"
+    "World War I/People/India"
   ]
 }

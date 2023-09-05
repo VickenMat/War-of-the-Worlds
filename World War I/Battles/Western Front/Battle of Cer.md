@@ -1,0 +1,2 @@
+- Starting on August 15, [[Serbia]] troops defeat [[Austria-Hungary]]
+- First Allied victory in the war

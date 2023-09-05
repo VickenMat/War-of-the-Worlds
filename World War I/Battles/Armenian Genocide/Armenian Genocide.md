@@ -8,4 +8,8 @@
 	- [[Tehcir Law]] is put into effect by the [[Ottoman Empire]], authorizing the deportation of the Ottoman Armenian population Deir ez-Zor in the Syrian desert
 - June
 	- 15,000 Armenians of Bitlis are massacred by Ottoman Turks and Kurds
+- July
+	- 17,000 Armenian civilians from the Ottoman Armenian populated Trebizond are massacred
+- September 12
+	- French soldiers rescue over 4,000 survivors stranded in Musa Dagh, a mountain in the Hatay province of Turkey
 - Leads to the death of 800,000 to 1.5 million Armenians

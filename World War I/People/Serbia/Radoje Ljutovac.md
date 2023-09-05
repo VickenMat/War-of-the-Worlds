@@ -1,0 +1,2 @@
+- September 30
+	- [[Serbia]] Army private becomes first soldier in history to shoot down and enemy aircraft with ground to air fire

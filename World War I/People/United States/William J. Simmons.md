@@ -1,0 +1,1 @@
+- Revived the Ku Klux Klan on November 24 [[1915]] at Stone Mountain, Georgia

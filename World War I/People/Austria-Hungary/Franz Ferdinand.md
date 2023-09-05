@@ -14,7 +14,7 @@
 	- Opposed the annexation of [[Serbia]] for fear that it would make an already turbulent political situation worse
 	- Worried about them destabilizing the [[Austria-Hungary]] empire
 - Escaped an assassin's bomb just two hours prior to death
-- Assassinated by [[Gavrilo Princip]] on June 28, [[1914]] in [[Sarajevo]]
+- Assassinated by [[Gavrilo Princip]] on June 28, [[1914]] in [[Sarajevo]], [[Bosnia-Herzegovina]]
 
 ![Gavrilo Princip assassinates Franz Ferdinand, 1914](https://nzhistory.govt.nz/files/june-28-1914-franz-ferdinand.jpg)
 Assassination of Franz Ferdinand 1914

@@ -13,9 +13,6 @@ Map of Mexico and supporters
 		- [[Emiliano Zapata]] in the south waged a bloody campaign against the rural political bosses
 	- In the Spring of 1911, revolutionary forces made Diaz resign and declared Francisco Madero President
 
-![[Batallas_durante_la_revolución_maderista.svg.png]]
-Battles from 1910 to 1911
-
 - Madero Regime
 	- Failed to recognize need for economic change and his regime faltered from the start
 	- Zapata and Orozco from Mexico turned against Madero and Henry Lane Wilson and the U.S. government became an outspoken enemy
@@ -29,7 +26,8 @@ Aftermath of the "Ten Tragic Days", 1913
 - U.S. Intervention and Rebellion against Huerta
 	- Opposition to Huerta's drunken, inefficient, and despotic rule grew
 	- [[Venustiano Carranza]], Pancho Villa, Alvaro Obregon, and Zapata formed an uneasy alliance, supported by [[Woodrow Wilson]] who refused to recognize Huerta
-	- In April [[1914]], to prevent Huerta from receiving an arms shipment from Germany, the U.S. naval forces seized Veracruz
+		- On October 19, 1915, the U.S. recognized the Mexican government of Carranza de facto
+	- In April [[1914]], to prevent Huerta from receiving an arms shipment from Germany, the U.S. naval forces seized Veracruz in what became known as the Tampico Affair
 
 - Civil War
 	- In spring and summer 1914, the allied rebel forces converged on Mexico City, forcing Huerta into exile in July

@@ -1,0 +1,1 @@
+- Agree upon on September 5, no member of the Triple Entente ([[Great Britain]], [[France]], and [[Russia]]) may seek separate peace with Central Powers

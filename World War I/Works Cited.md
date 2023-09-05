@@ -7,6 +7,8 @@
 	- https://www.open.edu/openlearn/history-the-arts/history/what-was-the-schlieffen-plan#:~:text=Prior%20to%20World%20War%20I,on%20the%20flanks%20and%20rear.
 - [[1914]]
 	- https://www.loc.gov/collections/stars-and-stripes/articles-and-essays/a-world-at-war/timeline-1914-1921/
+	- https://www.iwm.org.uk/history/5-things-you-need-to-know-about-the-first-world-war
+	- https://en.wikipedia.org/wiki/1914
 - [[Battle of Tannenberg]]
 	- https://www.britannica.com/event/Battle-of-Tannenberg-World-War-I-1914
 	- https://www.history.com/this-day-in-history/battle-of-tannenberg-begins
@@ -171,4 +173,8 @@
 	- https://en.wikipedia.org/wiki/Mexican_Revolution
 	- https://www.britannica.com/event/Mexican-Revolution
 	- https://bostonraremaps.com/inventory/rand-mcnally-mexican-revolution-1914/
+- [[Kurt Wintgens]]
+	- https://en.wikipedia.org/wiki/Kurt_Wintgens
+- [[Battle of Loos]]
+	- https://www.nam.ac.uk/explore/battle-loos
 	- 

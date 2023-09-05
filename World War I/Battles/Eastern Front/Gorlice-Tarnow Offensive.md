@@ -24,6 +24,7 @@ Northeastern Europe, [[1914]]
 - Russia was isolated, outflanked, and swiftly defeated, causing a full retreat on June 15 1915
 	- 100,000 Russian casualties, with 250,000 captured as prisoners
 	- 90,000 German and Austro-Hungarian casualties
+- The Great Retreat, beginning on July 22 is ordered and Russian troops pull out of Poland, taking machinery and equipment with them
 - With the Russian Army in retreat, the Habsburg Empire could transport troops to the Italian Front
 
 
@@ -32,6 +33,7 @@ Significance
 - Beginning as a minor attack, ended as the chief Central Powers' success of 1915 - accomplishing all objectives in less time than expected
 - Caused a total collapse of Russian supply lines and their retreat far into Russia
 	- Neutralized the Tsarist Army as a fighting for for months considering the losses of territory, soldiers, and war materials
+- The Great Retreat was a strategic full withdrawal out of Poland after the defeat to the Central Powers
 - Although the success, Vienna and Berlin went back to  waging war **independently**
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/0/09/01915_Schwere_deutsche_Morser.jpg)
