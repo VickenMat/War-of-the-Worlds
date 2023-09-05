@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cae2cc38cd09e6f0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
             "id": "7bd2ab8044652f11",
             "type": "leaf",
             "pinned": true,
@@ -86,9 +76,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8858b1a38b59e11c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Mexican Revolution.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227
   },
   "right": {
     "id": "c5832d1ab020562d",
@@ -217,32 +219,34 @@
   },
   "active": "379f085bad73d51d",
   "lastOpenFiles": [
+    "World War I/Battles/Mexican Revolution.md",
+    "World War I/Timeline/1915.md",
     "World War I/Timeline/1914.md",
-    "World War I/Battles/Western Front/Battle of the Marne.md",
-    "World War I/Battles/Zimmermann Telegram.md",
-    "World War I/Battles/Schlieffen Plan.md",
-    "World War I/Battles/Russian Revolution.md",
-    "World War I/Battles/Lusitania.md",
-    "World War I/Battles/Chemical Warfare.md",
-    "World War I/Battles/Battle of Jutland.md",
-    "World War I/Battles/Western Front/Western Front.md",
-    "World War I/Battles/Western Front/Vimy Ridge.md",
-    "World War I/Battles/Western Front/Third Battle of Ypres.md",
-    "World War I/Battles/Western Front/Second Battle of Ypres.md",
-    "World War I/Battles/Western Front/First Battle of Ypres.md",
     "World War I/Works Cited.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Suvla Bay.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Anzac Cove.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Cape Helles.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
+    "Batallas_durante_la_revolución_maderista.svg.png",
+    "World War I/People/Mexico/Eulalio Gutierrez.md",
+    "World War I/People/Mexico/Pascual Orozco.md",
+    "World War I/People/Mexico/Victoriano Huerta.md",
+    "World War I/People/Mexico/Felix Diaz.md",
+    "World War I/People/Mexico/Venustiano Carranza.md",
+    "World War I/People/Mexico/Emiliano Zapata.md",
+    "World War I/People/Mexico/Francisco Madero.md",
+    "World War I/People/Mexico/Porfirio Diaz.md",
+    "World War I/Countries/Mexico.md",
+    "World War I/People/Mexico",
+    "World War I/People/Mexico/Alvaro Obregon.md",
+    "World War I/People/Mexico/Pancho Villa.md",
+    "World War I/Treaties/Tehcir Law.md",
+    "World War I/Battles/Armenian Genocide/Armenian Genocide.md",
+    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
+    "World War I/Thoughts.md",
+    "World War I/Treaties/Treaty of London.md",
+    "World War I/Treaties/Sykes-Picot Agreement.md",
+    "World War I/Treaties/Constantinople Agreement.md",
+    "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
+    "World War I/Battles/Western Front/Battle of Messines.md",
+    "World War I/Battles/Western Front/Western Front.md",
+    "World War I/Battles/Armenian Genocide",
     "World War I/Battles/Italian Front",
     "Pasted image 20230822174635.png",
     "World War I/Battles/Middle East/Sinai Campaign",
@@ -251,8 +255,6 @@
     "World War I/People/Australia",
     "World War I/People/Canada",
     "World War I/People/India",
-    "World War I/Battles/Armies",
-    "World War I/People/New Zealand",
-    "World War I/People/Newfoundland"
+    "World War I/Battles/Armies"
   ]
 }

@@ -147,4 +147,28 @@
 	- https://www.britannica.com/event/Battles-of-the-Isonzo
 	- https://en.wikipedia.org/wiki/Eleventh_Battle_of_the_Isonzo
 	- https://www.firstworldwar.com/battles/isonzo11.htm
-- 
+- [[Battle of Neuve Chapelle]]
+	- https://en.wikipedia.org/wiki/Battle_of_Neuve_Chapelle
+	- https://www.westernfrontassociation.com/world-war-i-articles/the-battle-of-neuve-chapelle-1915/
+	- https://www.longlongtrail.co.uk/battles/battles-of-the-western-front-in-france-and-flanders/the-battle-of-neuve-chapelle/
+	- https://www.thehistorypress.co.uk/articles/neuve-chapelle-1915-the-bef-s-first-offensive/
+- [[Western Front]]
+	- https://www.thehistorypress.co.uk/articles/neuve-chapelle-1915-the-bef-s-first-offensive/
+- [[1915]]
+	- https://en.wikipedia.org/wiki/1915
+- [[Treaty of London]]
+	- https://en.wikipedia.org/wiki/1915
+- [[Constantinople Agreement]]
+	- https://en.wikipedia.org/wiki/1915
+- [[Gorlice-Tarnow Offensive]]
+	- https://en.wikipedia.org/wiki/Gorlice%E2%80%93Tarn%C3%B3w_offensive
+	- https://encyclopedia.1914-1918-online.net/article/offensive_gorlice-tarnow
+- [[Tehcir Law]]
+	- https://en.wikipedia.org/wiki/1915
+- [[Armenian Genocide]]
+	- https://en.wikipedia.org/wiki/1915
+- [[Mexican Revolution]]
+	- https://en.wikipedia.org/wiki/Mexican_Revolution
+	- https://www.britannica.com/event/Mexican-Revolution
+	- https://bostonraremaps.com/inventory/rand-mcnally-mexican-revolution-1914/
+	- 

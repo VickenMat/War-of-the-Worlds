@@ -1,0 +1,1 @@
+- [[Italy]] secretly agrees to leave the Triple Alliance with [[Germany]] and [[Austria-Hungary]] to join with the Central Powers in exchange fro certain territories of Austria-Hungary on its borders

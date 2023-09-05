@@ -1,0 +1,11 @@
+- February 25
+	- [[Armenian Genocide]] begins with Turks transferring Armenians from their armed forces to unarmed labour battalions
+- March 2
+	- Earliest record of Armenian deportations
+- April 24
+	- Deportation of Armenian notables from Constantinople begins
+- May 27
+	- [[Tehcir Law]] is put into effect by the [[Ottoman Empire]], authorizing the deportation of the Ottoman Armenian population Deir ez-Zor in the Syrian desert
+- June
+	- 15,000 Armenians of Bitlis are massacred by Ottoman Turks and Kurds
+- Leads to the death of 800,000 to 1.5 million Armenians
