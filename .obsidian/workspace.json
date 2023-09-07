@@ -48,37 +48,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "379f085bad73d51d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Timeline/1915.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "293fc0eb349cca85",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Timeline/1914.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Timeline/1915.md",
+                "file": "World War I/Timeline/1916.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Timeline/1915.md",
+                "file": "World War I/Timeline/1916.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Timeline/1915.md"
+                "file": "World War I/Timeline/1916.md"
               }
             }
           }
@@ -205,10 +177,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379f085bad73d51d",
+  "active": "91b08f6349e01214",
   "lastOpenFiles": [
+    "World War I/Timeline/1915.md",
     "World War I/Timeline/1914.md",
     "World War I/Treaties/Christmas Truce.md",
+    "christmas-truce_bairnsfather_ap_106742013099.jpg",
+    "World War I/People/Great Britain/Bruce Bairnsfather.md",
+    "World War I/Works Cited.md",
+    "World War I/Treaties/Twenty-One Demands.md",
     "World War I/People/Serbia/Radoje Ljutovac.md",
     "World War I/People/Italy/Benito Mussolini.md",
     "World War I/Battles/Western Front/First Battle of Ypres.md",
@@ -222,8 +199,6 @@
     "World War I/People/Serbia/Gavrilo Princip.md",
     "World War I/People/Austria-Hungary/Franz Ferdinand.md",
     "World War I/Battles/Mexican Revolution.md",
-    "World War I/Works Cited.md",
-    "World War I/Timeline/1915.md",
     "World War I/Battles/Armenian Genocide/Armenian Genocide.md",
     "World War I/People/United States/William J. Simmons.md",
     "World War I/Battles/Western Front/Battle of Loos.md",
@@ -232,9 +207,6 @@
     "Batallas_durante_la_revolución_maderista.svg.png",
     "World War I/People/Germany/Kurt Wintgens.md",
     "World War I/People/Mexico/Eulalio Gutierrez.md",
-    "World War I/People/Mexico/Pascual Orozco.md",
-    "World War I/People/Mexico/Victoriano Huerta.md",
-    "World War I/People/Mexico/Felix Diaz.md",
     "World War I/People/Mexico",
     "World War I/Battles/Armenian Genocide",
     "World War I/Battles/Italian Front",

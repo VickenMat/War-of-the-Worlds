@@ -177,4 +177,6 @@
 	- https://en.wikipedia.org/wiki/Kurt_Wintgens
 - [[Battle of Loos]]
 	- https://www.nam.ac.uk/explore/battle-loos
+- [[Christmas Truce]]
+	- https://www.history.com/news/christmas-truce-1914-world-war-i-soldier-accounts
 	- 
