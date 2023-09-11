@@ -4,7 +4,7 @@ Trench map of Loos offensive, [[1915]]
 
 - On September 25 1915, [[Great Britain]] and [[France]] launched a joint offensive on the [[Western Front]] in Loos and Champagne/Artois respectively
 - Led by [[Sir John French]], commander of the [[British Expeditionary Force]]
-- The British had condemned [[Germany]] for their use of chemical warfare since the [[Second Battle of Ypres]] but in searching for a way to break through decided on using it themselves at Loos
+- The British had condemned [[Germany]] for their use of [[Chemical Warfare]] since the [[Second Battle of Ypres]] but in searching for a way to break through decided on using it themselves at Loos
 	- The gas was released from cylinders by special units an hour before the infantry attacked
 	- Due to fickle weather, some of the gas blew back into their trenches and lingered in [[No Man's Land]], causing confusion
 	- As quoted by British Second Lieutenant George Grossman in his letter, "The gas hung in a thick pall over everything, and it was impossible to see more than ten yards. In vain I looked for my landmarks in the German line, to guide me to the right spot, but I could not see through the gas"

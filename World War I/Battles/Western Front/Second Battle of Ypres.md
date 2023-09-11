@@ -4,7 +4,7 @@ Ypres in Belgium, 1915
 
 - April 22, [[1915]]
 - The second battle of Ypres was the only offensive the [[Germany]] launched in 1915
-- Beginning of the modern era of chemical warfare
+- Beginning of the modern era of [[Chemical Warfare]]
 	- The usual bombardment of artillery fire started the attack, but after it finished, Allied troops were expecting German troops to attack
 	- Instead, Germany fired north of 150 tons of lethal chlorine gas against [[France]] troops at Ypres in [[Belgium]]
 	- The gas wiped out both French divisions but the Germans were unable to take advantage as they were shocked by its devastating effects

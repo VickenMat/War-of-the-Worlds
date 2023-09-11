@@ -1,4 +1,4 @@
-- On December 24 [[1914]], 
+- On December 24 [[1914]], a storied truce broke out between German and British soldiers along the Western Front
 - [[Bruce Bairnsfather]], a British machine gunner and later cartoonist wrote a memoirs about his time in the war, including this storied night
 	- "Cold, wet through and covered with mud. There didn't seem the slightest chance of leaving - except in an ambulance."
 	- "I could hear the murmur of voices. Do you hear the Boches (Germans) kicking up that racket over there?"
@@ -25,7 +25,5 @@
 Significance
 - For just one day, parts of the world returned to sanity
 
-
-
-![[christmas-truce_bairnsfather_ap_106742013099.jpg]]
+![Christmas Truce 1914](https://assets.editorial.aetnd.com/uploads/2018/10/christmas-truce_bairnsfather_ap_106742013099.jpg?width=2048&height=2188&crop=2048%3A2188%2Csmart&quality=75)
 Illustration of the soldiers on Christmas Day drawn by [[Bruce Bairnsfather]]

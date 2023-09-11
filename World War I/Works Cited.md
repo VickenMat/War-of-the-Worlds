@@ -179,4 +179,28 @@
 	- https://www.nam.ac.uk/explore/battle-loos
 - [[Christmas Truce]]
 	- https://www.history.com/news/christmas-truce-1914-world-war-i-soldier-accounts
+- [[Battle of Verdun]]
+	- https://www.nam.ac.uk/explore/1916-year-attrition
+	- https://www.britannica.com/event/Battle-of-Verdun/The-tide-turns-at-Verdun
+	- https://www.history.com/news/10-things-you-may-not-know-about-the-battle-of-verdun
+	- http://memorial-verdun.fr/en/learning-resource-centre/the-battle-of-verdun-historic-events#:~:text=The%201916%20battle%20ended%20after,identical%20losses%20on%20both%20sides.
+	- https://en.wikipedia.org/wiki/Battle_of_Verdun
+	- https://www.firstworldwar.com/battles/verdun.htm
+- [[1916]]
+	- https://en.wikipedia.org/wiki/1916
+	- https://www.loc.gov/collections/world-war-i-rotogravures/articles-and-essays/timeline/1916/
+	- https://www.firstworldwar.com/battles/all.htm
+- [[Battle of Hulluch]]
+	- https://www.bbc.com/news/uk-northern-ireland-36135290
+	- https://www.dublincity.ie/library/blog/irish-brigade-hulluch-april-1916
+- [[Battle of Jutland]]
+	- https://www.britannica.com/event/Battle-of-Jutland
+	- https://www.nrscotland.gov.uk/research/learning/first-world-war/the-battle-of-jutland
+	- https://www.history.com/this-day-in-history/battle-of-jutland
+- [[Battle of the Somme]]
+	- https://www.history.com/topics/world-war-i/battle-of-the-somme
+	- https://www.firstworldwar.com/battles/somme.htm
+	- https://www.britannica.com/event/First-Battle-of-the-Somme
+	- https://www.iwm.org.uk/history/how-did-the-battle-of-the-somme-end
 	- 
+	
