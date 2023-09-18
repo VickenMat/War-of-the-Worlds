@@ -35,8 +35,12 @@
             "id": "f9723cecf4f86642",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Battle of Jutland.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "World War I/Battles/Battle of Jutland.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "World War I/Battles/Battle of Jutland.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "World War I/Battles/Battle of Jutland.md"
+          }
         }
       }
     ],
@@ -150,32 +158,34 @@
   },
   "active": "f9723cecf4f86642",
   "lastOpenFiles": [
-    "World War I/Battles/Italian Front/First Battle of Isonzo.md",
-    "World War I/Battles/Italian Front/Sixth Battle of Isonzo.md",
-    "World War I/Battles/Italian Front/Eleventh Battle of Isonzo.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
-    "World War I/Battles/Zimmermann Telegram.md",
-    "World War I/Thoughts.md",
-    "World War I/Battles/Lusitania.md",
-    "World War I/Battles/Armies/Suez Expeditionary Force.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
-    "World War I/People/Germany/Henrich von Eckhardt.md",
-    "World War I/People/Germany/Arthur Zimmermann.md",
-    "World War I/People/Germany/Liman von Sanders.md",
-    "World War I/People/Great Britain/Aylmer Hunter-Weston.md",
-    "World War I/People/Great Britain/William Birdwood.md",
-    "World War I/People/Great Britain/Sir Frederick Stopford.md",
-    "README.md",
-    "World War I/People/Great Britain/General Sir Ian Hamilton.md",
-    "World War I/Battles/Gallipoli Campaign/Battle of Sari Bair.md",
     "World War I/Battles/Chemical Warfare.md",
-    "World War I/People/Serbia/Trifko Grabež.md",
-    "World War I/People/Serbia/Vaso Čubrilović.md",
-    "World War I/People/Serbia/Nedeljko Čabrinović.md",
-    "World War I/People/Serbia/Muhamed Mehmedbašić.md",
-    "World War I/People/Serbia/Cvjetko Popović.md",
-    "World War I/People/Germany/Erich Ludendorff.md",
-    "World War I/People/Germany/Paul von Hindenburg.md",
+    "Pasted image 20230907185456.png",
+    "1-battle-of-the-somme.jpg",
+    "World War I/Battles/Western Front/Battle of Cer.md",
+    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
+    "World War I/People/United States/William J. Simmons.md",
+    "World War I/People/Belgium/Albert Hustin.md",
+    "World War I/People/Germany/Kurt Wintgens.md",
+    "World War I/Battles/Western Front/Battle of Hulluch.md",
+    "World War I/People/Great Britain/Bruce Bairnsfather.md",
+    "World War I/Treaties/Tehcir Law.md",
+    "World War I/Treaties/Constantinople Agreement.md",
+    "World War I/Battles/Armenian Genocide/Armenian Genocide.md",
+    "World War I/Battles/Mexican Revolution.md",
+    "World War I/Battles/Western Front/Battle of Mulhouse.md",
+    "World War I/Treaties/Treaty of London.md",
+    "World War I/Treaties/Christmas Truce.md",
+    "World War I/People/Serbia/Radoje Ljutovac.md",
+    "World War I/Treaties/London Agreement.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
+    "World War I/Treaties/Twenty-One Demands.md",
+    "World War I/People/Mexico/Porfirio Diaz.md",
+    "World War I/People/Mexico/Victoriano Huerta.md",
+    "World War I/People/India/Mahatma Gandhi.md",
+    "World War I/People/Mexico/Francisco Madero.md",
+    "World War I/People/Mexico/Pascual Orozco.md",
+    "World War I/Locations/No Man's Land.md",
+    "World War I/People/Mexico/Alvaro Obregon.md",
     "World War I/Countries/Allied Powers/British Empire",
     "World War II/Battles/Pacific Theater",
     "World War II/Battles/European Theater",

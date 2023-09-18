@@ -202,5 +202,7 @@
 	- https://www.firstworldwar.com/battles/somme.htm
 	- https://www.britannica.com/event/First-Battle-of-the-Somme
 	- https://www.iwm.org.uk/history/how-did-the-battle-of-the-somme-end
+	- https://theconversation.com/a-century-after-the-battle-of-the-somme-can-we-finally-explain-shell-shock-59278
+	- https://www.history.com/news/why-was-the-battle-of-the-somme-so-deadly
 	- 
 	
