@@ -204,5 +204,7 @@
 	- https://www.iwm.org.uk/history/how-did-the-battle-of-the-somme-end
 	- https://theconversation.com/a-century-after-the-battle-of-the-somme-can-we-finally-explain-shell-shock-59278
 	- https://www.history.com/news/why-was-the-battle-of-the-somme-so-deadly
+- [[1917]]
+	- https://en.wikipedia.org/wiki/1917
 	- 
 	

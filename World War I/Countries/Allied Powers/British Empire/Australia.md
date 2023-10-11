@@ -9,7 +9,7 @@ Commonwealth of Australia [[1914]]
 	- [[Australian and New Zealand Army Corps]] were charged with Gaba Tepe, overlooking Anzac Cove during the [[Gallipoli Campaign]] 
 	- The AIF's fiercest fighting would come at the [[Battle of Lone Pine]] against the [[Ottoman Empire]]
 	- In the Middle East, they joined the [[Egyptian Expeditionary Force]] (EEF) with [[New Zealand]] to fight the Ottoman Turks in both the Sinai and Palestine campaigns
-	- In the [[Western Front]], the AIF saw massive casualties at the [[Battle of Fromelles]] in [[1916]], while also participating in the [[Battle of the Somme]], [[Battle of Messines]], and [[Third Battle of Ypres]]
+	- In the [[Western Front]], the AIF saw massive casualties at the [[Battle of Fromelles]] in [[1916]], while also participating in the [[Battle of the Somme]], [[Battle of Messines]], and [[Third Battle of Ypres - Passchendaele]]
 	- 416,000 soldiers mobilized during the war, with 324,000 serving overseas
 - Ceased hostilities on November 11, 1918 after armistice with Germany
 	- 58,961 dead with 152,171 wounded
