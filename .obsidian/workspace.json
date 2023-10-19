@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "2a29f8b1f99a0e93",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "30498c0737691507",
             "type": "leaf",
             "pinned": true,
@@ -61,6 +47,18 @@
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "3d7636f56477dd86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Timeline/1918.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Timeline/1917.md",
+                "file": "World War I/Timeline/1918.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Timeline/1917.md",
+                "file": "World War I/Timeline/1918.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Timeline/1917.md"
+                "file": "World War I/Timeline/1918.md"
               }
             }
           }
@@ -191,37 +189,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30498c0737691507",
+  "active": "3d7636f56477dd86",
   "lastOpenFiles": [
-    "World War I/Battles/Russian Revolution/October Revolution.md",
     "World War I/Timeline/1917.md",
-    "World War I/Battles/Middle East/Third Battle of Gaza.md",
-    "World War I/Battles/Western Front/Third Battle of Ypres - Passchendaele.md",
+    "World War I/Works Cited.md",
+    "World War I/Timeline/1916.md",
+    "World War I/Timeline/1915.md",
+    "World War I/Timeline/1918.md",
+    "World War I/Timeline/1914.md",
+    "Untitled.canvas",
+    "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
+    "World War I/Battles/Western Front/Battle of Mulhouse.md",
+    "World War I/People/Mexico/Victoriano Huerta.md",
+    "World War I/Countries/Mexico.md",
     "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
+    "World War I/Battles/Middle East/Third Battle of Gaza.md",
+    "World War I/Battles/Middle East/Second Battle of Gaza.md",
+    "World War I/Battles/Middle East/First Battle of Gaza.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
+    "World War I/Battles/Russian Revolution/October Revolution.md",
+    "World War I/Battles/Western Front/Third Battle of Ypres - Passchendaele.md",
     "World War I/Battles/Russian Revolution/July Days.md",
     "World War I/Treaties/Selective Service Act.md",
     "World War I/Treaties/Agreement of Saint-Jean-de-Maurienne.md",
     "World War I/Battles/Russian Revolution",
-    "World War I/Battles/Middle East/Second Battle of Gaza.md",
     "World War I/Battles/Russian Revolution/April Theses.md",
     "World War I/Battles/Western Front/Nivelle Offensive.md",
     "World War I/Battles/Western Front/Battle of Arras.md",
-    "World War I/Timeline/1916.md",
-    "World War I/Works Cited.md",
     "World War I/Thoughts.md",
-    "World War I/Battles/Middle East/First Battle of Gaza.md",
     "World War I/Battles/Italian Front/Eleventh Battle of Isonzo.md",
-    "World War I/Battles/Zimmermann Telegram.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
-    "World War I/Battles/Western Front/Battle of the Somme.md",
     "Pasted image 20230907185456.png",
     "1-battle-of-the-somme.jpg",
-    "World War I/Battles/Hindenburg Line.md",
-    "World War I/Battles/Battle of Jutland.md",
-    "World War I/Treaties/Sykes-Picot Agreement.md",
-    "World War I/Battles/Western Front/Battle of Hulluch.md",
-    "World War I/Battles/Western Front/Second Battle of Ypres.md",
-    "World War I/Battles/Western Front/Battle of Loos.md",
     "christmas-truce_bairnsfather_ap_106742013099.jpg",
     "World War I/Battles/Western Front/Battle of Mulhouse",
     "Batallas_durante_la_revolución_maderista.svg.png",

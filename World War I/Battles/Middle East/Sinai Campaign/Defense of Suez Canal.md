@@ -25,3 +25,6 @@ Turkish attack on Suez Canal, February 3 1915
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_camel_corps_at_Beersheba2.jpg/1920px-The_camel_corps_at_Beersheba2.jpg)
 Ottoman Camel Corps at Beersheba, 1915
+
+![German propaganda postcard celebrating the Turkish raid on the Suez Canal, 1915](https://www.nam.ac.uk/sites/default/files/2018-06/94738_half.jpg)
+Postcard celebrating Turkish raid on Suez Canal, 1915

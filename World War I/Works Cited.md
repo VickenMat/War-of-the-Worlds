@@ -9,6 +9,8 @@
 	- https://www.loc.gov/collections/stars-and-stripes/articles-and-essays/a-world-at-war/timeline-1914-1921/
 	- https://www.iwm.org.uk/history/5-things-you-need-to-know-about-the-first-world-war
 	- https://en.wikipedia.org/wiki/1914
+	- https://www.nam.ac.uk/explore/to-arms1914
+	- https://www.historic-uk.com/HistoryUK/HistoryofBritain/World-War-1-Timeline-1914/
 - [[Battle of Tannenberg]]
 	- https://www.britannica.com/event/Battle-of-Tannenberg-World-War-I-1914
 	- https://www.history.com/this-day-in-history/battle-of-tannenberg-begins
@@ -130,6 +132,7 @@
 - [[Defense of Suez Canal]]
 	- https://www.firstworldwar.com/battles/suez.htm
 	- https://www.longlongtrail.co.uk/battles/the-campaign-in-egypt-and-palestine/the-defence-of-the-suez-canal/
+	- https://www.nam.ac.uk/explore/egypt-and-palestine-campaign
 - [[Suez Expeditionary Force]]
 	- https://www.firstworldwar.com/battles/suez.htm
 - [[Lusitania]]
@@ -158,6 +161,8 @@
 	- https://www.thehistorypress.co.uk/articles/neuve-chapelle-1915-the-bef-s-first-offensive/
 - [[1915]]
 	- https://en.wikipedia.org/wiki/1915
+	- https://www.historic-uk.com/HistoryUK/HistoryofBritain/World-War-1-Timeline-1915/
+	- https://www.nam.ac.uk/explore/1915-early-trench-battles
 - [[Treaty of London]]
 	- https://en.wikipedia.org/wiki/1915
 - [[Constantinople Agreement]]
@@ -190,6 +195,8 @@
 	- https://en.wikipedia.org/wiki/1916
 	- https://www.loc.gov/collections/world-war-i-rotogravures/articles-and-essays/timeline/1916/
 	- https://www.firstworldwar.com/battles/all.htm
+	- https://www.history.com/topics/world-war-i/world-war-i-history
+	- https://www.nam.ac.uk/explore/1916-year-attrition
 - [[Battle of Hulluch]]
 	- https://www.bbc.com/news/uk-northern-ireland-36135290
 	- https://www.dublincity.ie/library/blog/irish-brigade-hulluch-april-1916
@@ -206,5 +213,12 @@
 	- https://www.history.com/news/why-was-the-battle-of-the-somme-so-deadly
 - [[1917]]
 	- https://en.wikipedia.org/wiki/1917
+	- https://www.historic-uk.com/HistoryUK/HistoryofBritain/World-War-1-Timeline-1917/
+	- https://www.firstworldwar.com/timeline/1917.htm
+	- https://www.nam.ac.uk/explore/1917-year-stalemate
+- [[Sinai Campaign]]
+	- https://www.awm.gov.au/collection/E84837
+	- https://en.wikipedia.org/wiki/Sinai_and_Palestine_campaign
+	- https://www.nam.ac.uk/explore/egypt-and-palestine-campaign
 	- 
 	
