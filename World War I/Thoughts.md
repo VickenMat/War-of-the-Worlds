@@ -7,7 +7,77 @@ Questions
 - The underlying theme of the war is heavy casualties for minute ground gained and military advantage
 - [[Battle of the Somme]] human capital - when does it end
 - [[Christmas Truce]] - soldiers don't want to fight - commanders do
-- 
+- Nationalism
+	- Kings, Czars, and Kaisers ousted from power
+	- New countries and world powers arise, so how should the planet be geographically and politically divided to prevent another war
+	- Should the world become a place of independent states such as France or Poland or become an amalgam of super states of diverse populations such as Yugoslavia and United States
+- World Organizations
+	- How realistic was the League of Nations if it wasn't even accepted by his own U.S. Senate
+	- How practical when nationalistic feelings captivated people around the world
+- Technology
+	- Should the principles of science be manipulated by engineers into implements of mass death
+	- Development and use of tanks, airplanes, arial bombardment, poison gas, flame-throwers, explosive grenades, and machine guns raise ethical questions
+	- Should these technologies be improved upon or destroyed
+- Economics
+	- Following the end of the war, the tension between capitalism and communism escalated
+	- How should profits be distributed?
+		- To the state as a representative of the people or to the individual entrepreneur whose efforts generated the profits
+	- How should land be distributed?
+		- To the state which held all land as the people's representative or to private owners holding title to land they purchased or inherited from a previous owner
+- Democracy
+	- Editorials called for mass man to refuse to accept war as an answer to problems his leaders created
+	- Instead, mass man gave themselves as a weapon to the state
+	- In terms of democracy, there was little difference in the response from the Russians autocratic government and republican Frenchman and parliamentary Germany and Great Britain
+- What are the underlying factors that sparked the Great War?
+	- *The Great War was a complex event with many factors leading to its birth such as nationalism, imperialism, and militarism*
+- Why did the war last for so long?
+	- Stalemate along multiple fronts as trench warfare raged
+- How did the war impact the civilian population on the homefront, including women and children?
+- What was the legacy and long term consequences of WWI?
+	- International relations
+	- Rise of totalitarian regimes
+	- Outbreak of WWII
+- What would have happened if the U.S. took a more active role in 1914?
+	- How and why was the U.S. isolationist?
+- #### Who was "right"?
+	- [[Germany]]
+		- They had just underwent an arduous series of unification processes and wars to cement their state and sovereignty and had a history of separation and intrusion
+		- The German people truly though that was would be the only means of maintained their integrity as a nation
+			- *Seeking to raise Germany's prestige to new heights with another war in Europe, a throwback to 19th century thinking*
+	- [[France]]
+		- They had just been humiliated in a war engineered by Bismarck and Prussian establishment
+		- They had lost territory in a claim of ethnic suppression and were aiming to reclaim what they thought were rightfully theirs
+		- National price would not allow falling by the wayside
+			- *Looking to reclaim Alsace and Lorraine as well as undo the humiliation she endured during the Franco-Prussian War*
+	- [[Great Britain]]
+		- Drawn into conflict they wanted no part of due to the 1839 Treaty of London which forced her hand when Germany invaded [[Belgium]]
+		- Britain could not stand idly and allow Germany to secure the northern coast of France, which would be strategically unacceptable
+			- *Interested in maintaining the status-quo of Europe with France and Russia as her allies*
+	- [[Russia]]
+		- Had made great efforts to secure the integrity of the Balkans only to possess a secure buffer from Bulgaria, Ottoman Empire, and Austria-Hungary
+		- Russia aligned with France who guaranteed [[Serbia]] independence, a security that could allow for casus belli when needed most against its logical rival, Austria-Hungary
+			- *Sought to reclaim prestige, humiliated in the Russo-Japanese War beyond measure. Also issue of continually rising Germany on her borders, cutting Russia off from the rest of Europe if war came. The Great War was an attempt to move the borders*
+	- [[Austria-Hungary]]
+		- Their struggle towards unification made their leadership paranoid that something may lead to a division of the dualist monarchy
+		- The assassination of Archduke Ferdinand became significant to the political elite who feared an uprising, culminating in their ultimatum to Serbia
+			- *Aimed for the preservation of empire while Slavic nationalism was proving to be a threat to their power in the Balkans. The continued Russian and western powers' support of Slavic movement added fuel to the fire*
+	- [[Ottoman Empire]]
+		- Considered the "Sick Man of Europe", which fell in the aftermath of the Great War
+		- Had a long history of multi-ethnic rule and her slow decay, both internally and externally was eating faster and faster as the war approached
+		- The assassination of the Archduke provided an opportunity to reassert herself on the European stage and reclaim the glory she once possessed
+			- *Similar to Austria-Hungary, they aimed to keep their empire together and potentially rebuilding with newfound prestige. There was also a Russian threat to take Constantinople and annex large parts of eastern Turkey (modern day Azerbaijan). The war would provide an opportunity to stem this encroachment*
+	- [[Italy]]
+		- Fought the Ottomans in North Africa, claiming much of the coast to themselves
+		- Had vested interest in the weakening of the Austro-Hungarian Empire and reclaiming territory thought to be hers, the famous Italian irredentism
+			- *Sough to regain control of ethnically Italian areas from Austria-Hungary. Played the waiting game with Germany and Austria-Hungary while she backdoored negotiations with France and Britain aimed at bringing her to the Entente side. The [[Treaty of London]] (1915) was meant to secure this future*
+	- [[United States]]
+		- 
+	- Answer?
+		- No one was truly "right" as each nation aimed to secure their own interests rather than preserve a rule of law and international order
+		- Nations cannot be "right or wrong" because they are not subjective entities
+			- They hold interests, not beliefs or morals
+		- The Great War was a messy complex event that goes beyond simple attributions of responsibility or fault
+			- The War was realpolitik in action with the gravest of consequences only to be concluded with idealpolitik
 
 
 
@@ -17,3 +87,6 @@ Questions
 - [[Lusitania]] sunk, U.S. relations with [[Germany]] strained
 - [[Zimmermann Telegram]] intercepted - last straw
 	- Brought the United States into the war
+
+![](https://qph.cf2.quoracdn.net/main-qimg-cb164f7ad90b00cac7b360990797e7a4-lq)
+Central Powers are mostly landlocked and surrounded by enemies. Allied ability to have constant flank on them was a key factor in their downfall
