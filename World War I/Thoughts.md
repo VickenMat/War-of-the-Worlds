@@ -1,4 +1,6 @@
 Questions
+- Where was China in all of this? 
+- Why does South America never engage in World Wars?
 - Was the sinking of the [[Lusitania]] valid?
 	- I think so
 	- Americans knew of the war and chance it could be shot at, also entering a war zone
@@ -39,10 +41,21 @@ Questions
 	- Outbreak of WWII
 - What would have happened if the U.S. took a more active role in 1914?
 	- How and why was the U.S. isolationist?
+
+- ##### Why did the war start? (most to least important)
+	- Before assassination of Franz Ferdinand
+		- Assassination of Archduke Franz Ferdinand by Serbian nationalists who wanted war, so that Russia would join in and defeat Austria-Hungary to create their united Yugoslavia (they would succeed but at a huge cost)
+		- continue with quora page in works cited 
+
 - #### Who was "right"?
 	- [[Germany]]
 		- They had just underwent an arduous series of unification processes and wars to cement their state and sovereignty and had a history of separation and intrusion
 		- The German people truly though that was would be the only means of maintained their integrity as a nation
+		- By [[1914]], Germany had become much more unified than a century ago, where it was a confederacy of small nations with a common tongue
+		- Under the influence of Prussia, the largest and most unified German state, Germany had been unified and armed
+		- **Before they were unified, Germany acted as a buffer between the other major powers
+		- **After they were unified, England, Russian, and France saw them as a threat, and similarly Germany saw them as threats**
+		- **This was also the era of European colonialism in Africa and Asia (China's collapse left Japan to rise and Germany, England, Spain, Portugal, and France carved up other countries)**
 			- *Seeking to raise Germany's prestige to new heights with another war in Europe, a throwback to 19th century thinking*
 	- [[France]]
 		- They had just been humiliated in a war engineered by Bismarck and Prussian establishment
@@ -52,13 +65,19 @@ Questions
 	- [[Great Britain]]
 		- Drawn into conflict they wanted no part of due to the 1839 Treaty of London which forced her hand when Germany invaded [[Belgium]]
 		- Britain could not stand idly and allow Germany to secure the northern coast of France, which would be strategically unacceptable
+			- *Could have avoided war altogether*
+			- *Britain had just won naval superiority over the Germans*
+			- *Britain was much less committed to the Triple Entente than France and Russia were*
 			- *Interested in maintaining the status-quo of Europe with France and Russia as her allies*
 	- [[Russia]]
 		- Had made great efforts to secure the integrity of the Balkans only to possess a secure buffer from Bulgaria, Ottoman Empire, and Austria-Hungary
 		- Russia aligned with France who guaranteed [[Serbia]] independence, a security that could allow for casus belli when needed most against its logical rival, Austria-Hungary
+		- Russia's intervention into a Serbian/Austro-Hungarian matter escalated the territorial conflict to a level it should not have reached
+			- *Tried to take advantage of the conflict to gain territory in the Balkans and further into Europe, as well as take land away from the Ottomans*
 			- *Sought to reclaim prestige, humiliated in the Russo-Japanese War beyond measure. Also issue of continually rising Germany on her borders, cutting Russia off from the rest of Europe if war came. The Great War was an attempt to move the borders*
 	- [[Austria-Hungary]]
 		- Their struggle towards unification made their leadership paranoid that something may lead to a division of the dualist monarchy
+		- **Made up of dozens of disparate ethnic groups, none of which had any influence over affairs**
 		- The assassination of Archduke Ferdinand became significant to the political elite who feared an uprising, culminating in their ultimatum to Serbia
 			- *Aimed for the preservation of empire while Slavic nationalism was proving to be a threat to their power in the Balkans. The continued Russian and western powers' support of Slavic movement added fuel to the fire*
 	- [[Ottoman Empire]]
@@ -66,9 +85,16 @@ Questions
 		- Had a long history of multi-ethnic rule and her slow decay, both internally and externally was eating faster and faster as the war approached
 		- The assassination of the Archduke provided an opportunity to reassert herself on the European stage and reclaim the glory she once possessed
 			- *Similar to Austria-Hungary, they aimed to keep their empire together and potentially rebuilding with newfound prestige. There was also a Russian threat to take Constantinople and annex large parts of eastern Turkey (modern day Azerbaijan). The war would provide an opportunity to stem this encroachment*
+	- [[Serbia]]
+		- Serbia used to be part of the Austrian Empire but had recently been granted a form of independence, but this wasn't enough for them
+		- They wanted a larger state that would unite people of Slavic backgrounds still under Austrian rule(think Yugoslavia after the war)
+			- *Serbian radicals decided to wage a war of terrorism against Austria, backed by influential figures*
+			- **[[Franz Ferdinand]] who was next in line to the throne and attempting to quiet things down, visited Serbia to assure them that they Serbian sovereignty was fine with Austria and the inclusion of Slavs was negotiable - On that same day, his life was taken**
+			- **Ferdinand was a poor target as he was the most liberal leader in Austria and in favor of more independence and democracy within the empire**
 	- [[Italy]]
 		- Fought the Ottomans in North Africa, claiming much of the coast to themselves
 		- Had vested interest in the weakening of the Austro-Hungarian Empire and reclaiming territory thought to be hers, the famous Italian irredentism
+			- *Originally part of the Triple Alliance but moved to the Triple Entente following the Ottoman's joining the Alliance, as they wanted to capitalize on their land*
 			- *Sough to regain control of ethnically Italian areas from Austria-Hungary. Played the waiting game with Germany and Austria-Hungary while she backdoored negotiations with France and Britain aimed at bringing her to the Entente side. The [[Treaty of London]] (1915) was meant to secure this future*
 	- [[United States]]
 		- 
@@ -78,12 +104,39 @@ Questions
 			- They hold interests, not beliefs or morals
 		- The Great War was a messy complex event that goes beyond simple attributions of responsibility or fault
 			- The War was realpolitik in action with the gravest of consequences only to be concluded with idealpolitik
+		- *The Triple Alliance was at a major disadvantage going into the war as they were surrounded and outnumbered by their enemies*
+		- *The imperial force was far greater on the Entente side than the Alliance side
+			- Germany was the only country who held colonies outside of Europe
+			- Ottomans had recently lost control of Egypt, Libya, and Ukraine
+			- Austria-Hungary was strictly mainland Europe and completely landlocked (after Italy's alliance switch)
+	- **Unlike WWII which had a common humanitarian goal and enemy, WWI was still the age of imperialism and every decision was made for political and geographical power**
+
+- How could WW1 have been avoided?
+	- Prussia does not win the Franco-Prussian war and Germany is not unified
+		- Without a unified Germany, WW1 cannot occur
+	- Archduke Ferdinand's driver does not take the wrong turn on a street an assassin is eating a sandwich
+	- [[Kaiser Wilhelm II]] does not give Austria-Hungary a "blank check"
+		- Germany had promised to back Austria-Hungary to the point of war
+		- Austria-Hungary's foreign minister felt secure enough to send Serbia an ultimatum as a result
+	- Russia does not mobilize their army
+		- This mobilization sparked a chain reaction of mobilizations from Germany, France, Austria-Hungary, and Britain
 
 
 
 ## Key Points in the War
 - [[Franz Ferdinand]] assassinated
 	- Europe plunged as chain reactions of allies declared war
+	- *Serbia promises a full investigation of the assassination, even though it will never happen as it was state sponsored*
+	- *Austria demands access to conduct their own investigation which Serbia refuses as it is a violation of their independence*
+	- *Austria threatens to send troops to Serbia*
+	- *Russia makes it clear if Austria sends troops into Serbia, they will support the Serbian government (why?)*
+	- *Austria asks Germany for assurances that they will support them if Russia mobilizes*
+	- *Russia asks England and France for assurances that if Germany mobilizes against them, they will declare war on Germany*
+	- **Austria mobilizes their troops at the Serbian border**
+	- *Russia mobilizes their troops along the German, Austrian, and Serbian border*
+	- *Ottomans, feeling threatened that Russia is too close to them, mobilizes their own troops and declares support for Austria and Germany if Russia attacks*
+	- *Germany declares war on Russia and mobilizes its troops*
+	- *England and France declare war on Germany*
 - [[Lusitania]] sunk, U.S. relations with [[Germany]] strained
 - [[Zimmermann Telegram]] intercepted - last straw
 	- Brought the United States into the war

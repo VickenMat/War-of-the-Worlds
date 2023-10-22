@@ -55,13 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Timeline/1918.md",
+                "file": "World War II/Books/Poland 1939.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Thoughts.md",
+                "file": "World War II/Books/Poland 1939.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Thoughts.md",
+                "file": "World War II/Books/Poland 1939.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Thoughts.md"
+                "file": "World War II/Books/Poland 1939.md"
               }
             }
           }
@@ -188,12 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bd2ab8044652f11",
+  "active": "3d7636f56477dd86",
   "lastOpenFiles": [
-    "World War I/Works Cited.md",
-    "World War I/Thoughts.md",
     "World War I/Timeline/1918.md",
     "World War I/Timeline/1917.md",
+    "World War I/Thoughts.md",
+    "World War I/Works Cited.md",
     "World War I/Timeline/1916.md",
     "World War I/Timeline/1915.md",
     "World War I/Timeline/1914.md",
