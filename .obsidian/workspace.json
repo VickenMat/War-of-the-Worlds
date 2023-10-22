@@ -52,13 +52,15 @@
           {
             "id": "3d7636f56477dd86",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "World War II/Books/Poland 1939.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -191,6 +193,11 @@
   },
   "active": "3d7636f56477dd86",
   "lastOpenFiles": [
+    "Luftwaffe.md",
+    "World War II/Books/Poland 1939.md",
+    "Phoney War.md",
+    "World War II/Countries/Poland.md",
+    "World War II/Countries/Finland.md",
     "World War I/Timeline/1918.md",
     "World War I/Timeline/1917.md",
     "World War I/Thoughts.md",
@@ -213,12 +220,7 @@
     "World War I/Battles/Western Front/Third Battle of Ypres - Passchendaele.md",
     "World War I/Battles/Russian Revolution/July Days.md",
     "World War I/Treaties/Selective Service Act.md",
-    "World War I/Treaties/Agreement of Saint-Jean-de-Maurienne.md",
     "World War I/Battles/Russian Revolution",
-    "World War I/Battles/Russian Revolution/April Theses.md",
-    "World War I/Battles/Western Front/Nivelle Offensive.md",
-    "World War I/Battles/Western Front/Battle of Arras.md",
-    "World War I/Battles/Italian Front/Eleventh Battle of Isonzo.md",
     "Pasted image 20230907185456.png",
     "1-battle-of-the-somme.jpg",
     "christmas-truce_bairnsfather_ap_106742013099.jpg",
