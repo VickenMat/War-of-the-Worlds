@@ -50,17 +50,11 @@
             }
           },
           {
-            "id": "3d7636f56477dd86",
+            "id": "5c355e2990d9bd2b",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War II/Books/Poland 1939.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -130,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War II/Books/Poland 1939.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War II/Books/Poland 1939.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +161,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "World War II/Books/Poland 1939.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -191,35 +181,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4fd9a8c0f5a987",
+  "active": "5c355e2990d9bd2b",
   "lastOpenFiles": [
-    "World War II/Books/Poland 1939.md",
-    "Alfred Naujock.md",
-    "Gleiwitz.md",
-    "Abwehr.md",
-    "Luftwaffe.md",
-    "Phoney War.md",
-    "World War II/Countries/Poland.md",
-    "World War II/Countries/Finland.md",
-    "World War I/Timeline/1918.md",
     "World War I/Timeline/1917.md",
-    "World War I/Thoughts.md",
+    "World War I/People/United States/Woodrow Wilson.md",
+    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
+    "World War II/Books/Poland 1939.md",
+    "World War I/Countries/Allied Powers/Italy.md",
     "World War I/Works Cited.md",
+    "World War I/Thoughts.md",
+    "World War I/Battles/Zimmermann Telegram.md",
+    "World War I/Timeline/1918.md",
     "World War I/Timeline/1916.md",
     "World War I/Timeline/1915.md",
     "World War I/Timeline/1914.md",
+    "World War I/Locations/Transylvania.md",
+    "World War I/Locations/Sarajevo.md",
+    "World War I/Locations/No Man's Land.md",
+    "World War I/Countries/Allied Powers/Portugal.md",
+    "World War I/Battles/Western Front/First Battle of Ypres.md",
+    "World War II/Organizations/Abwehr.md",
+    "World War II/People/Alfred Naujock.md",
+    "World War II/Locations/Gleiwitz.md",
+    "Luftwaffe.md",
+    "World War II/Battles/Phoney War.md",
+    "World War II/Countries/Poland.md",
+    "World War II/Countries/Finland.md",
     "Untitled.canvas",
     "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
     "World War I/Battles/Western Front/Battle of Mulhouse.md",
-    "World War I/People/Mexico/Victoriano Huerta.md",
-    "World War I/Countries/Mexico.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
-    "World War I/Battles/Middle East/Third Battle of Gaza.md",
-    "World War I/Battles/Middle East/Second Battle of Gaza.md",
-    "World War I/Battles/Middle East/First Battle of Gaza.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
-    "World War I/Battles/Russian Revolution/October Revolution.md",
     "World War I/Battles/Russian Revolution",
     "Pasted image 20230907185456.png",
     "1-battle-of-the-somme.jpg",
