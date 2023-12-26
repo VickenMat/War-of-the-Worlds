@@ -23,24 +23,16 @@
             "id": "aa3baf03cb5e473f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War I/Works Cited.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "f9723cecf4f86642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World War II/Timeline/1943.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +102,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World War II/Timeline/1943.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +118,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World War II/Timeline/1943.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,9 +128,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "World War II/Timeline/1943.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -158,34 +146,34 @@
   },
   "active": "f9723cecf4f86642",
   "lastOpenFiles": [
-    "Alfred Naujock.md",
-    "Gleiwitz.md",
-    "Abwehr.md",
-    "World War II/Timeline/1942.md",
-    "World War II/Timeline/1943.md",
-    "World War II/Timeline/1941.md",
+    "World War I/People/Austria-Hungary/Duchess of Hohenberg.md",
+    "World War I/People/Italy/Vittorio Orlando.md",
+    "World War I/People/Germany/Adolf Hitler.md",
+    "World War I/Timeline/1914.md",
+    "World War I/Timeline/1916.md",
+    "World War I/Timeline/1917.md",
+    "World War I/Timeline/1915.md",
+    "World War I/Works Cited.md",
+    "World War I/People/Serbia/Dragutin Dimitrijevic.md",
+    "World War I/Battles/Western Front/Battle of Verdun.md",
     "World War II/Books/Poland 1939.md",
-    "World War I/Battles/Middle East/Second Battle of Gaza.md",
-    "World War I/Battles/Western Front/Nivelle Offensive.md",
-    "World War I/Battles/Middle East/First Battle of Gaza.md",
-    "World War II/Timeline/1939.md",
-    "Luftwaffe.md",
-    "Phoney War.md",
-    "World War II/Countries/Poland.md",
-    "World War II/Countries/Finland.md",
-    "World War I/Battles/Middle East/Third Battle of Gaza.md",
-    "World War I/Battles/Russian Revolution/October Revolution.md",
-    "World War I/Battles/Russian Revolution/July Days.md",
-    "World War I/Treaties/Selective Service Act.md",
-    "World War I/Battles/Russian Revolution/April Theses.md",
-    "World War I/Treaties/Agreement of Saint-Jean-de-Maurienne.md",
-    "World War I/Battles/Western Front/Battle of Arras.md",
-    "World War I/Battles/Battle of Jutland.md",
-    "World War I/Battles/Chemical Warfare.md",
+    "World War I/People/Serbia/Gavrilo Princip.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
+    "World War I/People/Austria-Hungary/General Oskar Potoirek.md",
+    "World War I/People/United States/Woodrow Wilson.md",
+    "World War I/Battles/Western Front/Battle of the Somme.md",
+    "World War I/Organizations/Black Hand.md",
+    "World War I/People/Russia/Leon Trotsky.md",
+    "World War I/People/Germany/Kaiser Wilhelm II.md",
+    "World War I/People/France/Georges Clemenceau.md",
+    "World War I/People/Great Britain/David Lloyd George.md",
+    "World War I/People/Germany/Otto von Bismarck.md",
+    "World War I/People/Russia/Sergei Sazonov.md",
+    "World War I/People/Italy/Francisco Franco.md",
+    "World War I/Thoughts.md",
+    "World War II/Timeline/1943.md",
     "Pasted image 20230907185456.png",
     "1-battle-of-the-somme.jpg",
-    "World War I/Battles/Western Front/Battle of Cer.md",
-    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
     "World War I/Countries/Allied Powers/British Empire",
     "World War II/Battles/Pacific Theater",
     "World War II/Battles/European Theater",

@@ -50,15 +50,33 @@
             }
           },
           {
-            "id": "5c355e2990d9bd2b",
+            "id": "5d73c481342ad7d3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7f675e73ae5fa5b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Battles/Middle East/First Battle of Gaza.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chemical",
+                "query": "gaza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World War I/Timeline/1917.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World War I/Timeline/1917.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "World War I/Timeline/1917.md"
+              }
             }
           }
         ]
@@ -181,35 +204,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c355e2990d9bd2b",
+  "active": "30498c0737691507",
   "lastOpenFiles": [
-    "World War I/Timeline/1917.md",
-    "World War I/People/United States/Woodrow Wilson.md",
+    "World War I/Battles/Middle East/First Battle of Gaza.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
+    "World War I/Battles/Russian Revolution/Russian Revolution.md",
+    "World War I/Battles/Russian Revolution/October Revolution.md",
+    "World War I/Battles/Russian Revolution/July Days.md",
+    "World War I/Battles/Russian Revolution/April Theses.md",
+    "World War I/Battles/Middle East/Third Battle of Gaza.md",
+    "World War I/Battles/Middle East/Second Battle of Gaza.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Suvla Bay.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Cape Helles.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/Anzac Cove.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
+    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
+    "World War I/Battles/Italian Front/Sixth Battle of Isonzo.md",
+    "World War I/Battles/Italian Front/First Battle of Isonzo.md",
+    "World War I/Battles/Italian Front/Eleventh Battle of Isonzo.md",
+    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
+    "World War I/Battles/Eastern Front/Eastern Front.md",
     "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
-    "World War II/Books/Poland 1939.md",
-    "World War I/Countries/Allied Powers/Italy.md",
-    "World War I/Works Cited.md",
-    "World War I/Thoughts.md",
-    "World War I/Battles/Zimmermann Telegram.md",
-    "World War I/Timeline/1918.md",
-    "World War I/Timeline/1916.md",
-    "World War I/Timeline/1915.md",
-    "World War I/Timeline/1914.md",
-    "World War I/Locations/Transylvania.md",
-    "World War I/Locations/Sarajevo.md",
-    "World War I/Locations/No Man's Land.md",
-    "World War I/Countries/Allied Powers/Portugal.md",
-    "World War I/Battles/Western Front/First Battle of Ypres.md",
-    "World War II/Organizations/Abwehr.md",
-    "World War II/People/Alfred Naujock.md",
-    "World War II/Locations/Gleiwitz.md",
-    "Luftwaffe.md",
-    "World War II/Battles/Phoney War.md",
-    "World War II/Countries/Poland.md",
-    "World War II/Countries/Finland.md",
+    "Vietnam War",
+    "Cold War",
+    "Interwar Period",
     "Untitled.canvas",
-    "World War I/Battles/Western Front/Battle of Neuve Chapelle.md",
-    "World War I/Battles/Western Front/Battle of Mulhouse.md",
     "World War I/Battles/Russian Revolution",
     "Pasted image 20230907185456.png",
     "1-battle-of-the-somme.jpg",
@@ -221,9 +247,6 @@
     "World War I/Battles/Italian Front",
     "Pasted image 20230822174635.png",
     "World War I/Battles/Middle East/Sinai Campaign",
-    "World War I/Battles/Middle East",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive",
-    "World War I/People/Australia",
-    "World War I/People/Canada"
+    "World War I/Battles/Middle East"
   ]
 }

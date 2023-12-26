@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiBook2Fill",
       "RiFolderFill",
       "RiBookOpenFill",
       "RiFolder3Fill",
-      "RiPenNibFill",
-      "RiHandCoinFill"
+      "RiPenNibFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,8 @@
   "World War I/Battles/Italian Front": "RiFolder3Fill",
   "World War I/Battles/Armenian Genocide": "RiFolder3Fill",
   "World War I/People/Mexico": "RiFolder3Fill",
-  "World War I/Battles/Russian Revolution": "RiFolder3Fill"
+  "World War I/Battles/Russian Revolution": "RiFolder3Fill",
+  "Vietnam War": "RiBook2Fill",
+  "Interwar Period": "RiBook2Fill",
+  "Cold War": "RiBook2Fill"
 }
