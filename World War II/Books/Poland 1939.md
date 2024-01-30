@@ -158,3 +158,77 @@ The Tyranny of Geography
 	- Polands's strategic planning in 1939 was predicated upon material military assistance from foreign allies - [[Great Britain]] and [[France]]
 		- Zachod meant holding out until an Allied offensive in the west could relieve German pressure - which would never come because they all wanted different things
 	- The [[Munich Conference]] sealed the cession of the [[Sudetenland]] to Germany, which Hitler claimed to be his "last territorial demand in Europe"
+- Polands relationship with Britain and France was curious
+	- Polish mentality
+		- They had an ally in France and Britain
+	- British/French mentality
+		- Poland was more of a tool than an ally
+		- Military planners full well knew there was very little they could do to practically help Poland in their hour of need
+		- They were using Poland to ***contain Hitler*** - to conjure up the specter of war and hope it would be enough of a deterrent
+			- Problem was, Hitler was not going to be deterred
+			- He did not believe Poland deserved to exist
+		- Anglo-French delegation had been sent to Moscow in the hopes that their potential collaboration would scare Hitler into compliance
+			- The fundamental problem was, **the Soviets wanted to change the equilibrium, Britain and France wanted to preserve it**
+	- Soviet Union mentality
+		- Stalin wanted to return to the original ideology of the Soviet Union, *the outside world was seen as uniformly hostile, with no qualitative differences between Nazis and capitalism*
+			- They were two sides of the same malevolent coin, the only difference **Nazism was further down the road to an inevitable demise**
+			- Stalin knew that was could be a powerful motor in "changing the equilibrium"
+				- He was certainly not adverse to letting his ideological enemies fight each other
+					- "We see nothing wrong with their having a good hard fight and weakening each other"
+					- *Hitler, without understanding or desiring it, is shaking and undermining the capitalist system*
+					- "Lenin was not mistaken when he assured us that the Second World War will help is to gain power throughout all Europe, *just as the First World War helped us gain power in Russia"
+	- German mentality
+		- Germany was willing to pay any price to prevent an alignment between the USSR and Western Powers and Berlin would give up the Baltic states, Bessarabia, and eastern Poland if it meat avoiding it
+	- See [[Molotov-Ribbentrop Pact]]
+	- On August 29, Poland ordered then subsequently cancelled a general mobilization
+		- This was due to London and Paris believing Berlin would interpret this as provocative
+			- However, Allied attempts at mediation had done nothing except *hamstring Polish defenses*
+
+A Frightful Futility
+- "We shall stand at the bar of history knowing that the responsibility for this terrible catastrophe lies on the shoulders of one man, the German Chancellor, who has not hesitated to* plunge the world into misery in order to serve his own senseless ambitions*"
+	- "No peace in Europe" as long as the Nazi regime existed
+- There was some optimism for Britain and France
+- Britain
+	- Navy
+		- Primarily a naval power in 1939 - largest navy in the world
+		- They had the largest merchant fleet in the world - one in three of all
+	- Army
+		- Standard issue [[Lee-Enfield]] rifle and [[Bren]] light machine gun
+		- [[Matilda Mark II]] tank which had the thickest armor at the time but only a handful had been delivered at the time
+		- They relief on the [[Matilda Mark I]]
+	- Air Force
+		- 1,660 aircraft, led by the [[Hawker Hurricane]] and [[Spitfire]]
+	- Its empire had been built on international trade
+	- Its global reach traditionally required a navy to police sea lanes and protect its far-flung interests
+- France
+	- Army
+		- Second largest army in the world, behind the Soviets
+		- 900,000 men with 5 million trained reservists in autumn of 1939
+		- [[Char B1]] heavy tank boasted as the best tank available
+	- Air Force
+		- 1,000 operational aircraft, led by the [[Morane-Saulnier]]
+	- Navy
+		- Much smaller than Britain, with 70 destroyers, 19 cruisers, and 7 battleships crewed by 160,000 men
+- *Britain and France complemented each other well, ones shortcoming were the other's strength* and they arguably held the upper hand
+	- The British army needed the French as comrades in arms to launch any effective action against Germany
+- **Huge French losses-human and material- in the first World War, coupled with political turmoil thereafter, had nurtured a faith in the policy of appeasing Germany
+	- Maginot mentality
+		- *How can anyone believe that we continue to think of offensives when we have spent billions of francs to establish a fortified barrier*
+	- The British believed in two main points
+		- No negotiation with Germany unless it was prepared to withdraw its troops from Poland
+		- Delay beyond midnight was "undesirable" and this constituted an ultimatum
+			- However there was no mention of the aid or defense of Poland
+		- [[Arthur Greenwood]] stated, "How long are we prepared to vacillate at a time when Britain and all that Britain stand stands for, and human civilization, are in peril"
+- French Prime Minister [[Edouard Daladier]] and [[Neville Chamberlain]] had been the architects of appeasement and a cosignatory of the [[Munich Agreement]]
+- The defense of Poland from the British and French point of view
+	- Fight
+		- *If France should allow this aggression to be carried out, it would very soon find itself "despised, isolated, and discredited, without allies or support*
+		- "Standing by Poland was a matter of not only a vital interest, but of the highest principle"
+	- Appease
+		- [[Marcel Deat]] stated that Hitler would be sated with the cession of [[Danzig]] and that Polish intransigence was dragging all of Europe into war
+			- This had become the mentality for any French in support of non intervention
+	- Delay
+		- [[Maurice Gamelin]] mentioned that despite having committed his army, earlier in the summer, to assist Poland in the event of an attack, he had no intention of, nor consequently, had the French military  any plan for launching an immediate assault on Germany
+		- He was convinced that Germany was poised ready to attack the West upon any declaration of war
+	- Detach
+		- 

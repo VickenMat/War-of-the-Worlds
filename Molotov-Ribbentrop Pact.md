@@ -1,0 +1,9 @@
+ - [[Molotov-Ribbentrop Pact]] "strengthened the cause of peace between Germany and the USSR" and declared that both parties would "desist from any act of violence, any aggressive action, and any attack on each other"
+ - [[Adolf Hitler]] stated that the fate of 23 million people across Central Europe was sealed
+ - [[Joseph Stalin]] was also delighted, because within a few weeks, he has secured a non-aggression pact with his ideological opponent and signed off on a trade agreement that would potentially spur the next phase of Soviet industrialization
+	 - In addition, the USSR can be nominally removed from conflicts in Central Europe
+- Both sides declared themselves well satisfied with the proceedings
+- In [[Great Britain]], news wrote "the Nazis and Bolsheviks have combined to destroy civilization and the outlook for the world looks ghastly"
+- **Consensus was that it appeared to make war inevitable**
+- A Warsaw diarist wrote, *when the Germans and Soviets find a common language, "what could that language be if not the partition of our country"*
+- 
