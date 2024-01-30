@@ -1,0 +1,45 @@
+#### Vesa Nenye, Peter Munter, Toni Wirtanen, Chris Birks
+
+Timeline
+- Dec 31 [[1917]]
+	- [[Russia]] Bolshevik government recognized [[Finland]] independence
+- Jan 21 [[1932]]
+	- Finland signs non-aggression pact with Soviet Union
+- Jan 30 [[1933]]
+	- [[Adolf Hitler]] becomes Chancellor of [[Germany]]
+- 1939
+	- August 23
+		- [[Molotov-Ribbentrop Pact]] between Germany and Soviet Union
+		- Divides Finland, Baltic states, Poland, and Romania into German/Soviet spheres of influence
+	- October 5 1939
+		- Soviet Union invades Finland to negotiate land concessions
+	- Nov 26
+		- Soviet Union blames Finland for border incident known as the "shelling of Mainila"
+			- Similar to [[Gleiwitz Incident]]?
+	- Nov 30
+		- Winter War begins when the Soviet Union invades Finland
+	- Dec 14
+		- Soviet Union is expelled from the [[League of Nations]]
+	- Dec 21
+		- [[Joseph Stalin]] 60th birthday
+			- Hitler says "Best wishes for your personal well-being as well as the prosperous future of the people of the friendly Soviet Union"
+			- Stalin replies "The friendship of the peoples of Germany and Soviet Union, cemented by blood, has every reason to be lasting and firm"
+- [[1940]]
+	- Feb 12
+		- Finland receives notice of Soviet peace terms
+	- March 12
+		- [[Moscow Peace Treaty]] is signed
+	- May 22
+		- [[Finland-Soviet Union Peace and Friendship Society]] is founded with a secret aim of destabilizing Finland's government
+	- July 31
+		- Hitler finally decides to attack the Soviet Union
+	- Sept 6
+		- Finland signs an agreement allowing the USSR passage and access to the leased military base in Hanko
+	- Sept 12
+		- Finland agrees to allow the passage of German troops on its territory
+			- Deals with both sides?
+	- Sept 27
+		- Germany, [[Italy]], and [[Japan]] sign the [[Tripartite Pact]]
+	- Dec 18
+		- Hitler approves plans for [[Operation Barbarossa]]
+		- 

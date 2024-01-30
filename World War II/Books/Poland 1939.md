@@ -1,3 +1,5 @@
+#### Roger Moorehouse
+
 Preface
 - The start of WWII is shrouded in confusion across the globe - each combatant has their own entry point
 	- In [[China]] and [[Japan]], the war is said to have begun on July 7, [[1939]] when Chinese and Japanese forces engaged following the Marco Polo Bridge Incident
@@ -114,4 +116,45 @@ Westerplatte Fights On
 				- Raid made in error with incorrect intelligence?
 				- Psychological warfare to break the spirit of the Poles?
 		- Hitler's claim that his airmen would be restricted to attacking military targets was a *lie*
-		- 
+	- On the first day of the war, the Luftwaffe launched more than 2,000 sorties carrying raids on over 100 Polish cities - none of them were shot down
+		- German propaganda would claim the war had already been won
+		- One officer noted, "I light a cigarette-when it goes out, the war will be on"
+		- German soldiers often carried out ceremonial destruction of the border post as they passed it for the propaganda unit
+	- The first Wound Badge of the war was given to [[Ottomar Domizlaff]] after receiving a friendly fire wound to his butt
+	- "Without resistance, we marched into Poland"
+		- Goal was to cut off Polish forces in the north and reunite Prussia with the Reich - which had been enemy territory only a generation before
+- At [[Krojanty]], one of the last cavalry charges of its kind was launched by the 18th Cavalry Unit against German infantry
+	- At first the Germans were caught off guard, then their tanks came out of hiding - this would be a baptism by fire
+- In [[Mokra]], the Germans were humbled and would realize the Poles would not roll over and die
+	- They were now seen as neither incompetent or lacking in determination
+	- Although eventually taking the town, the Germans incurred 490 casualties and a resilient defense
+	- Helmuth von Moltke's maxim was "No battle plan survives first contact with the enemy"
+- The ***sentiment*** after the first night was best said in the quote
+	- "Tonight everywhere there are burning villages, houses, and barns. Here and there wild shooting, supposedly irregulars. Everywhere there is nervousness"
+	- In the first 3 days alone there were 72 mass executions, claiming 800 victims - a brutal benchmark for the rest of the campaign
+	- Head of the British military mission to Poland [[Sir Adrian Carton de Wiart]] stated, **I saw the very face of war change...bereft of romance, its glory shorn, no longer the soldiers setting forth into battle, but the women and children buried under it**
+- The image that the world would come to know of the campaign- ***of an inept, irresolute enemy unable to resist the German advance and foolhardy enough to charge advancing tanks with cavalry***-would be a fiction of [[Joseph Goebbel]] propaganda
+	- The Poles had shown they were determined to defend themselves. It just remained to be seen how Paris and London would respond to the German attacks
+
+The Tyranny of Geography
+- [[Wilson's Fourteen Points]] of January [[1918]] stated that Poland should be restored as an independent state and must have "free and secure access to the sea" and all those territories "inhabited by indisputably Polish populations"
+	- The collapse of the [[Russia]]n Empire in [[1917]] and Central Powers in 1918 enabled Poland to reemerge after an absence of 123 years
+- The [[Miracle on the Vistula]] not only saved Central and Western Europe from communism but also dented the Kremlin's ambitions
+	- It was a setback Stalin would neither forget nor forgive
+- Neither Germany nor Russia was reconciled to the territorial losses they had each incurred due to the first World War and ***the reconstituted Poland would represent a large portion of the irredenta***
+	- [[Vyacheslav Molotov]] would later describe Poland as "the monstrous bastard of the Peace of Versailles" - a view shared by Hitler
+		- *Would be considered as "one of the firmest guiding principles of German policy" as the existence of Poland was "intolerable and incompatible with Germany's vital interests*"
+			- **The logical basis for German-Russian collaboration was that Poland should be made to disappear
+	- [[Doctrine of Two Enemies]] stated that Poland would maintain correct and cordial relations with both Germany and the Soviet Union, but ally with neither
+		- A Polish-Soviet nonaggression pact was signed in July 1932 in an attempt to conduct a preventative strike against Germany
+		- A Polish-German nonaggression pact was signed with Hitler in January 1934 - Poland seemed to be internationally secure
+	- Polish military spending in the 5 years before [[1939]] was 3% of what Hitler spent in the same time period
+		- The amount Germany would spend to equipped a single armored division exceeded the annual budget for the Polish Army
+			- *Poland's postwar military leadership had not experienced the horrors of trench warfare and so failed to see that mechanization was the future*
+			- *Eastern Poland still had wide spaces, extensive marshes, and lack of infrastructure which still lended to cavalry*
+	- The emerging [[Blitzkrieg]] foresaw tanks punching holes in enemy lines which following infantry could exploit
+		- The Luftwaffe boasted 2,500 aircraft compared to the measly 400 from the Poles
+		- Germans had an advanced Panzer III and IV
+	- Polands's strategic planning in 1939 was predicated upon material military assistance from foreign allies - [[Great Britain]] and [[France]]
+		- Zachod meant holding out until an Allied offensive in the west could relieve German pressure - which would never come because they all wanted different things
+	- The [[Munich Conference]] sealed the cession of the [[Sudetenland]] to Germany, which Hitler claimed to be his "last territorial demand in Europe"

@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World War I/Battles/Middle East/First Battle of Gaza.md",
+                "file": "World War II/Books/Finland at War.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World War I/Timeline/1917.md",
+                "file": "World War II/Books/Finland at War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World War I/Timeline/1917.md",
+                "file": "World War II/Books/Finland at War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World War I/Timeline/1917.md"
+                "file": "World War II/Books/Finland at War.md"
               }
             }
           }
@@ -204,34 +203,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30498c0737691507",
+  "active": "7f675e73ae5fa5b8",
   "lastOpenFiles": [
+    "World War II/Books/Poland 1939.md",
+    "World War II/Books/Finland at War.md",
+    "Blitzkrieg.md",
+    "Tczew.md",
+    "Stefan Jezierski.md",
+    "Danzig.md",
+    "Heinrich Muller.md",
+    "Franciszek Honiok.md",
+    "Westerplatte.md",
+    "Gleiwitz Incident.md",
+    "Wielun.md",
+    "World War II/People/Alfred Naujock.md",
+    "World War II/Thoughts WW2.md",
+    "World War II/Luftwaffe.md",
+    "World War II/Works Cited WW2.md",
+    "README.md",
     "World War I/Battles/Middle East/First Battle of Gaza.md",
+    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
+    "World War I/Timeline/1917.md",
+    "World War I/Works Cited.md",
     "World War I/Battles/Middle East/Sinai Campaign/Sinai Campaign.md",
     "World War I/Battles/Russian Revolution/Russian Revolution.md",
     "World War I/Battles/Russian Revolution/October Revolution.md",
     "World War I/Battles/Russian Revolution/July Days.md",
     "World War I/Battles/Russian Revolution/April Theses.md",
     "World War I/Battles/Middle East/Third Battle of Gaza.md",
-    "World War I/Battles/Middle East/Second Battle of Gaza.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Battle of Romani.md",
-    "World War I/Battles/Middle East/Sinai Campaign/Defense of Suez Canal.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Suvla Bay.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Cape Helles.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/Anzac Cove.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Scimitar Hill.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Sari Bair.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Lone Pine.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Krithia Vineyard.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Hill 60.md",
-    "World War I/Battles/Middle East/Gallipoli Campaign/August Offensive/Battle of Chunuk Bair.md",
-    "World War I/Battles/Italian Front/Sixth Battle of Isonzo.md",
-    "World War I/Battles/Italian Front/First Battle of Isonzo.md",
-    "World War I/Battles/Italian Front/Eleventh Battle of Isonzo.md",
-    "World War I/Battles/Eastern Front/Gorlice-Tarnow Offensive.md",
-    "World War I/Battles/Eastern Front/Eastern Front.md",
-    "World War I/Battles/Eastern Front/Battle of Tannenberg.md",
     "Vietnam War",
     "Cold War",
     "Interwar Period",

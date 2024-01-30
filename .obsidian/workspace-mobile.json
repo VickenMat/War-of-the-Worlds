@@ -31,8 +31,12 @@
             "id": "f9723cecf4f86642",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World War I/Thoughts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "World War I/Thoughts.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -118,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "World War I/Thoughts.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "World War I/Thoughts.md"
+          }
         }
       }
     ],
@@ -146,32 +154,32 @@
   },
   "active": "f9723cecf4f86642",
   "lastOpenFiles": [
-    "World War I/People/Austria-Hungary/Duchess of Hohenberg.md",
-    "World War I/People/Italy/Vittorio Orlando.md",
-    "World War I/People/Germany/Adolf Hitler.md",
     "World War I/Timeline/1914.md",
     "World War I/Timeline/1916.md",
     "World War I/Timeline/1917.md",
     "World War I/Timeline/1915.md",
-    "World War I/Works Cited.md",
     "World War I/People/Serbia/Dragutin Dimitrijevic.md",
+    "World War I/Works Cited.md",
     "World War I/Battles/Western Front/Battle of Verdun.md",
     "World War II/Books/Poland 1939.md",
-    "World War I/People/Serbia/Gavrilo Princip.md",
     "World War I/Battles/Middle East/Gallipoli Campaign/Gallipoli Campaign.md",
-    "World War I/People/Austria-Hungary/General Oskar Potoirek.md",
-    "World War I/People/United States/Woodrow Wilson.md",
+    "World War I/People/Serbia/Gavrilo Princip.md",
     "World War I/Battles/Western Front/Battle of the Somme.md",
     "World War I/Organizations/Black Hand.md",
     "World War I/People/Russia/Leon Trotsky.md",
+    "World War I/People/Austria-Hungary/Duchess of Hohenberg.md",
     "World War I/People/Germany/Kaiser Wilhelm II.md",
-    "World War I/People/France/Georges Clemenceau.md",
     "World War I/People/Great Britain/David Lloyd George.md",
+    "World War I/People/France/Georges Clemenceau.md",
+    "World War I/People/Germany/Adolf Hitler.md",
     "World War I/People/Germany/Otto von Bismarck.md",
+    "World War I/People/Austria-Hungary/General Oskar Potoirek.md",
+    "World War I/People/United States/Woodrow Wilson.md",
+    "World War I/People/Italy/Vittorio Orlando.md",
     "World War I/People/Russia/Sergei Sazonov.md",
     "World War I/People/Italy/Francisco Franco.md",
     "World War I/Thoughts.md",
-    "World War II/Timeline/1943.md",
+    "World War II/Thoughts WW2.md",
     "Pasted image 20230907185456.png",
     "1-battle-of-the-somme.jpg",
     "World War I/Countries/Allied Powers/British Empire",
