@@ -1,5 +1,5 @@
 
-![Sinai campaign 1916 map](https://nzhistory.govt.nz/files/styles/fullsize/public/sinai-campaign-1000.jpg?itok=MH8jWpCE)
+![Sinai campaign 1916 map](https://www-tc.pbs.org/lawrenceofarabia/_graphics/nonflash/egypt.jpg)
 Suez Canal during the [[Sinai Campaign]], [[1916]]
 
 - [[1915]] saw World War 1 spread to the Middle East, particularly Egypt and Palestine

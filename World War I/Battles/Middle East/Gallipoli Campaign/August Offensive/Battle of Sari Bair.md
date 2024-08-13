@@ -1,5 +1,4 @@
 
-![Sari Bair offensive, August 1915 map](https://nzhistory.govt.nz/files/styles/fullsize/public/sari-bair-offensive.jpg?itok=oJERm653)
 Sari Bair Offensive, August 6 [[1915]]
 
 - Beginning of the "August Offensive" and also known as the "Battle of the Nek", the Battle of Sari Bair represented a final [[Great Britain]] attempt at taking control of the peninsula

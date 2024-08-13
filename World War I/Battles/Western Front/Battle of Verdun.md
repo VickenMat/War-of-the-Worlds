@@ -1,6 +1,6 @@
 
 ![undefined](https://upload.wikimedia.org/wikipedia/commons/5/5d/Battle_of_Verdun_map.png)
-Map of the Battle of Verdun, 1916
+Map of the Battle of Verdun, [[1916]]
 
 - [[Germany]], and General [[Erich von Falkenhayn]] believed the war would be won or lost in France and  that a breakthrough wasn't possible on the Western Front so instead for a the strategy of attrition with limited advance in the Verdun area
 	- By taking important French territory, they hoped to instigate larger scale counter attacks who would then fall to massed German artillery

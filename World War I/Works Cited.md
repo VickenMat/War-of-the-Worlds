@@ -223,5 +223,9 @@
 - [[World War I/Thoughts]]
 	- https://historynewsnetwork.org/article/156396#:~:text=How%20realistic%20was%20the%20League,into%20implements%20of%20mass%20death%3F
 	- https://www.quora.com/What-are-some-of-the-unanswered-questions-about-World-War-1
+- [[Battle of Romani]]
+	- https://www.awm.gov.au/collection/E84339
+	- https://www.armymuseum.co.nz/4th-august-1916-the-battle-of-romani/
+	- https://nzhistory.govt.nz/war/sinai-campaign/romani
 	- 
 	
